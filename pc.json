@@ -1,0 +1,3302 @@
+{
+  "source": "https://archive.org/download/pc_redump/PC%20Redump/",
+  "total_games": 659,
+  "timestamp": "20260406_180205",
+  "games": [
+    {
+      "name": "  - Nightfire (USA) (Disc 1) (Alt).zip",
+      "size": "724295511",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/007%20-%20Nightfire%20%28USA%29%20%28Disc%201%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "  - Nightfire (USA) (Disc 1).zip",
+      "size": "724295478",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/007%20-%20Nightfire%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": "  - Nightfire (USA, Europe) (Disc 2).zip",
+      "size": "710197310",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/007%20-%20Nightfire%20%28USA%2C%20Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /1nsane (Europe) (En,Fr,De,Es,It,Hu).zip",
+      "size": "642189833",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/1nsane%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CHu%29.zip"
+    },
+    {
+      "name": " /Aftershock for Quake (USA) (Deluxe Edition).zip",
+      "size": "23229030",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aftershock%20for%20Quake%20%28USA%29%20%28Deluxe%20Edition%29.zip"
+    },
+    {
+      "name": " /Age of Empires - Collector's Edition (Europe) (En,Fr,De,Es).zip",
+      "size": "4721121413",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Age%20of%20Empires%20-%20Collector%27s%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.zip"
+    },
+    {
+      "name": " /Age of Empires - The Rise of Rome Expansion (USA) (Rev 1).zip",
+      "size": "604713766",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Age%20of%20Empires%20-%20The%20Rise%20of%20Rome%20Expansion%20%28USA%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Age of Empires II - The Age of Kings (USA).zip",
+      "size": "629302932",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Age%20of%20Empires%20II%20-%20The%20Age%20of%20Kings%20%28USA%29.zip"
+    },
+    {
+      "name": " /Age of Empires II - The Conquerors Expansion (USA).zip",
+      "size": "616045735",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Age%20of%20Empires%20II%20-%20The%20Conquerors%20Expansion%20%28USA%29.zip"
+    },
+    {
+      "name": " /Age of Mythology - Gold Edition (Europe) (En,Fr,De,Es,It).zip",
+      "size": "5642930196",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Age%20of%20Mythology%20-%20Gold%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Aliens Versus Predator (USA) (Disc 1) (Gold Edition).zip",
+      "size": "325675451",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aliens%20Versus%20Predator%20%28USA%29%20%28Disc%201%29%20%28Gold%20Edition%29.zip"
+    },
+    {
+      "name": " /Aliens Versus Predator (USA) (Disc 2) (Gold Edition) (Alt).zip",
+      "size": "661401564",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aliens%20Versus%20Predator%20%28USA%29%20%28Disc%202%29%20%28Gold%20Edition%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Aliens Versus Predator 2 (Europe) (Disc 1).zip",
+      "size": "311902916",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aliens%20Versus%20Predator%202%20%28Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Aliens Versus Predator 2 (Europe) (Disc 2).zip",
+      "size": "536265717",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aliens%20Versus%20Predator%202%20%28Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Aliens Versus Predator 2 (USA) (Disc 1).zip",
+      "size": "305954410",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aliens%20Versus%20Predator%202%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Aliens Versus Predator 2 (USA, Asia) (Disc 2).zip",
+      "size": "538581380",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aliens%20Versus%20Predator%202%20%28USA%2C%20Asia%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Aliens Versus Predator 2 - Primal Hunt (USA).zip",
+      "size": "339805028",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Aliens%20Versus%20Predator%202%20-%20Primal%20Hunt%20%28USA%29.zip"
+    },
+    {
+      "name": " /American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 1).zip",
+      "size": "729352581",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/American%20McGee%27s%20Alice%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2).zip",
+      "size": "611896822",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/American%20McGee%27s%20Alice%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /AquaNox (Europe) (En,Fr,De,Es,It).zip",
+      "size": "799239639",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/AquaNox%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Arx Fatalis (USA).zip",
+      "size": "683931182",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Arx%20Fatalis%20%28USA%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate - The Original Saga (USA) (Disc 3).zip",
+      "size": "742873283",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20-%20The%20Original%20Saga%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate - The Original Saga (World) (Disc 1).zip",
+      "size": "732293011",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20-%20The%20Original%20Saga%20%28World%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate - The Original Saga (World) (Disc 2).zip",
+      "size": "731487503",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20-%20The%20Original%20Saga%20%28World%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate II - Shadows of Amn (USA) (Disc 1).zip",
+      "size": "729349390",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20II%20-%20Shadows%20of%20Amn%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate II - Shadows of Amn (USA) (Disc 2).zip",
+      "size": "731922791",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20II%20-%20Shadows%20of%20Amn%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate II - Shadows of Amn (USA) (Disc 4).zip",
+      "size": "697269364",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20II%20-%20Shadows%20of%20Amn%20%28USA%29%20%28Disc%204%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate II - Shadows of Amn (USA, Europe) (Disc 3).zip",
+      "size": "773267561",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20II%20-%20Shadows%20of%20Amn%20%28USA%2C%20Europe%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Baldur's Gate II - Throne of Bhaal (USA, Europe).zip",
+      "size": "720647422",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Baldur%27s%20Gate%20II%20-%20Throne%20of%20Bhaal%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Battlefield - Bad Company 2 (Europe) (En,Ja,Fr,De,Es,It,Pl,Ru) (Rev 1).zip",
+      "size": "5777125254",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Battlefield%20-%20Bad%20Company%202%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CPl%2CRu%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Battlefield 1942 - World War II Anthology (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 1).zip",
+      "size": "727300621",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Battlefield%201942%20-%20World%20War%20II%20Anthology%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Battlefield 1942 - World War II Anthology (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 2).zip",
+      "size": "755803652",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Battlefield%201942%20-%20World%20War%20II%20Anthology%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Battlefield 1942 - World War II Anthology (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 3).zip",
+      "size": "459627824",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Battlefield%201942%20-%20World%20War%20II%20Anthology%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Battlefield 1942 - World War II Anthology (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 4).zip",
+      "size": "755940620",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Battlefield%201942%20-%20World%20War%20II%20Anthology%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%29%20%28Disc%204%29.zip"
+    },
+    {
+      "name": " /Battlefield 2 - Complete Collection (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Sv,Zh,Ko,Pl,Th).zip",
+      "size": "4850099796",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Battlefield%202%20-%20Complete%20Collection%20%28USA%2C%20Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CZh%2CKo%2CPl%2CTh%29.zip"
+    },
+    {
+      "name": " /BioShock (USA) (En,Fr,De,Es,It).zip",
+      "size": "6472748477",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/BioShock%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /BioShock 2 (USA) (En,Fr,Es).zip",
+      "size": "7817285515",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/BioShock%202%20%28USA%29%20%28En%2CFr%2CEs%29.zip"
+    },
+    {
+      "name": " /Black & White (USA).zip",
+      "size": "753464231",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Black%20%26%20White%20%28USA%29.zip"
+    },
+    {
+      "name": " /Black & White - Bonus Creatures CD (USA).zip",
+      "size": "204694900",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Black%20%26%20White%20-%20Bonus%20Creatures%20CD%20%28USA%29.zip"
+    },
+    {
+      "name": " /Black & White - Creature Isle (Expansion Pack) (USA).zip",
+      "size": "589074895",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Black%20%26%20White%20-%20Creature%20Isle%20%28Expansion%20Pack%29%20%28USA%29.zip"
+    },
+    {
+      "name": " /Black & White 2 (USA) (Disc 1).zip",
+      "size": "723561529",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Black%20%26%20White%202%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Black & White 2 (USA) (Disc 2).zip",
+      "size": "777493373",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Black%20%26%20White%202%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Black & White 2 (USA) (Disc 3).zip",
+      "size": "777624790",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Black%20%26%20White%202%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Black & White 2 (USA) (Disc 4).zip",
+      "size": "648066697",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Black%20%26%20White%202%20%28USA%29%20%28Disc%204%29.zip"
+    },
+    {
+      "name": " /Blood (Europe) (v1.02).zip",
+      "size": "638873509",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20%28Europe%29%20%28v1.02%29.zip"
+    },
+    {
+      "name": " /Blood (Europe).zip",
+      "size": "638891304",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Blood (USA) (Disc 1) (Special Edition).zip",
+      "size": "647839194",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20%28USA%29%20%28Disc%201%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Blood (USA) (Disc 1).zip",
+      "size": "638702461",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Blood (USA) (Disc 2).zip",
+      "size": "254717947",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Blood II - The Chosen (USA).zip",
+      "size": "527432822",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20II%20-%20The%20Chosen%20%28USA%29.zip"
+    },
+    {
+      "name": " /Blood II - The Chosen - The Nightmare Levels (USA).zip",
+      "size": "406167261",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20II%20-%20The%20Chosen%20-%20The%20Nightmare%20Levels%20%28USA%29.zip"
+    },
+    {
+      "name": " /Blood Omen - Legacy of Kain (Europe).zip",
+      "size": "607642699",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20Omen%20-%20Legacy%20of%20Kain%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Blood Omen 2 - The Legacy of Kain Series (USA) (Disc 1).zip",
+      "size": "687203169",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20Omen%202%20-%20The%20Legacy%20of%20Kain%20Series%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Blood Omen 2 - The Legacy of Kain Series (USA) (Disc 2).zip",
+      "size": "711806899",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blood%20Omen%202%20-%20The%20Legacy%20of%20Kain%20Series%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /BloodRayne (Europe) (Disc 1).zip",
+      "size": "781023257",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/BloodRayne%20%28Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /BloodRayne (Europe) (Disc 2).zip",
+      "size": "452513553",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/BloodRayne%20%28Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Blur (Europe) (En,Fr,De,Es,It).zip",
+      "size": "5534878846",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Blur%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Brothers in Arms - Road to Hill 30 (Europe) (En,Fr,De,Es,It).zip",
+      "size": "3076162089",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Brothers%20in%20Arms%20-%20Road%20to%20Hill%2030%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Bully - Scholarship Edition (USA) (En,Fr,De,Es,It).zip",
+      "size": "3546199832",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Bully%20-%20Scholarship%20Edition%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Call of Cthulhu - Dark Corners of the Earth (Europe) (En,Fr,De) (Disc 1).zip",
+      "size": "777211584",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Cthulhu%20-%20Dark%20Corners%20of%20the%20Earth%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Call of Cthulhu - Dark Corners of the Earth (Europe) (En,Fr,De) (Disc 2).zip",
+      "size": "621360051",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Cthulhu%20-%20Dark%20Corners%20of%20the%20Earth%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Call of Duty (Europe) (Disc 1) (Game of the Year) (v1.5b).zip",
+      "size": "770631704",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%20%28Europe%29%20%28Disc%201%29%20%28Game%20of%20the%20Year%29%20%28v1.5b%29.zip"
+    },
+    {
+      "name": " /Call of Duty (USA) (Disc 1) (Game of the Year) (v1.5).zip",
+      "size": "768913133",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%20%28USA%29%20%28Disc%201%29%20%28Game%20of%20the%20Year%29%20%28v1.5%29.zip"
+    },
+    {
+      "name": " /Call of Duty (USA, Europe) (Disc 2) (Game of the Year).zip",
+      "size": "762106020",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%20%28USA%2C%20Europe%29%20%28Disc%202%29%20%28Game%20of%20the%20Year%29.zip"
+    },
+    {
+      "name": " /Call of Duty - United Offensive (Europe) (Disc 1) (v1.51b).zip",
+      "size": "700958045",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%20-%20United%20Offensive%20%28Europe%29%20%28Disc%201%29%20%28v1.51b%29.zip"
+    },
+    {
+      "name": " /Call of Duty - United Offensive (USA) (Disc 1) (v1.51b).zip",
+      "size": "701400771",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%20-%20United%20Offensive%20%28USA%29%20%28Disc%201%29%20%28v1.51b%29.zip"
+    },
+    {
+      "name": " /Call of Duty - United Offensive (USA, Europe) (Disc 2) (v1.51b).zip",
+      "size": "650990695",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%20-%20United%20Offensive%20%28USA%2C%20Europe%29%20%28Disc%202%29%20%28v1.51b%29.zip"
+    },
+    {
+      "name": " /Call of Duty - World at War (USA, Europe).zip",
+      "size": "6065591939",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%20-%20World%20at%20War%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Call of Duty 2 (USA, Europe).zip",
+      "size": "3756112529",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%202%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Call of Duty 4 - Modern Warfare (USA, Europe) (Game of the Year Edition).zip",
+      "size": "7001414709",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Call%20of%20Duty%204%20-%20Modern%20Warfare%20%28USA%2C%20Europe%29%20%28Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /Carmageddon (USA) (Rerelease).zip",
+      "size": "576798034",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Carmageddon - Splat Pack (USA) (Rerelease).zip",
+      "size": "381508910",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%20-%20Splat%20Pack%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Carmageddon 2 - Carpocalypse Now (USA).zip",
+      "size": "543104728",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%202%20-%20Carpocalypse%20Now%20%28USA%29.zip"
+    },
+    {
+      "name": " /Carmageddon II - Carpocalypse Now (Europe) (Zombie Version).zip",
+      "size": "556570187",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%20II%20-%20Carpocalypse%20Now%20%28Europe%29%20%28Zombie%20Version%29.zip"
+    },
+    {
+      "name": " /Carmageddon II - Carpocalypse Now (Europe).zip",
+      "size": "546725020",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%20II%20-%20Carpocalypse%20Now%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Carmageddon TDR 2000 (Europe).zip",
+      "size": "728586658",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%20TDR%202000%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Carmageddon TDR 2000 (USA).zip",
+      "size": "739515705",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%20TDR%202000%20%28USA%29.zip"
+    },
+    {
+      "name": " /Carmageddon TDR 2000 - Nose Bleed Pack (Europe).zip",
+      "size": "230281797",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Carmageddon%20TDR%202000%20-%20Nose%20Bleed%20Pack%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It).zip",
+      "size": "7546234444",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Chronicles%20of%20Riddick%2C%20The%20-%20Assault%20on%20Dark%20Athena%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Claw (Europe).zip",
+      "size": "513455347",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Claw%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Clive Barker's Jericho (USA) (En,Fr,De,Es,It).zip",
+      "size": "4220653409",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Clive%20Barker%27s%20Jericho%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Clive Barker's Undying (USA).zip",
+      "size": "643395360",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Clive%20Barker%27s%20Undying%20%28USA%29.zip"
+    },
+    {
+      "name": " /Command & Conquer (USA) (Disc 1) (Windows 95) (Rerelease).zip",
+      "size": "538368450",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Command%20%26%20Conquer%20%28USA%29%20%28Disc%201%29%20%28Windows%2095%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Command & Conquer (USA) (Disc 2) (Windows 95) (Rerelease) (Rev 1).zip",
+      "size": "523970691",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Command%20%26%20Conquer%20%28USA%29%20%28Disc%202%29%20%28Windows%2095%29%20%28Rerelease%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Command & Conquer - Red Alert (USA) (Allied Disc) (Rerelease).zip",
+      "size": "511941736",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Command%20%26%20Conquer%20-%20Red%20Alert%20%28USA%29%20%28Allied%20Disc%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Command & Conquer - Red Alert (USA) (Soviet Disc) (Rerelease).zip",
+      "size": "545260236",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Command%20%26%20Conquer%20-%20Red%20Alert%20%28USA%29%20%28Soviet%20Disc%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Command & Conquer - Red Alert - Counterstrike (USA) (Rerelease).zip",
+      "size": "320106958",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Command%20%26%20Conquer%20-%20Red%20Alert%20-%20Counterstrike%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Command & Conquer - Red Alert - The Aftermath (USA).zip",
+      "size": "583688090",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Command%20%26%20Conquer%20-%20Red%20Alert%20-%20The%20Aftermath%20%28USA%29.zip"
+    },
+    {
+      "name": " /Command & Conquer - The Covert Operations (USA).zip",
+      "size": "584764446",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Command%20%26%20Conquer%20-%20The%20Covert%20Operations%20%28USA%29.zip"
+    },
+    {
+      "name": " /Commandos - Behind Enemy Lines (Europe).zip",
+      "size": "481420289",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%20-%20Behind%20Enemy%20Lines%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Commandos - Behind Enemy Lines (USA) (Rerelease).zip",
+      "size": "491790602",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%20-%20Behind%20Enemy%20Lines%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Commandos - Beyond the Call of Duty (Europe).zip",
+      "size": "446335680",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%20-%20Beyond%20the%20Call%20of%20Duty%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Commandos - Beyond the Call of Duty (USA).zip",
+      "size": "365131984",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%20-%20Beyond%20the%20Call%20of%20Duty%20%28USA%29.zip"
+    },
+    {
+      "name": " /Commandos - Strike Force (USA) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "4072856846",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%20-%20Strike%20Force%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Commandos 2 - Men of Courage (USA) (Disc 1).zip",
+      "size": "776071631",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%202%20-%20Men%20of%20Courage%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Commandos 2 - Men of Courage (USA) (Disc 2).zip",
+      "size": "451175286",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%202%20-%20Men%20of%20Courage%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Commandos 2 - Men of Courage (USA) (Disc 3).zip",
+      "size": "683507171",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Commandos%202%20-%20Men%20of%20Courage%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Contract J.A.C.K. (USA) (Disc 1).zip",
+      "size": "775834833",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Contract%20J.A.C.K.%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Contract J.A.C.K. (USA) (Disc 2).zip",
+      "size": "340597866",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Contract%20J.A.C.K.%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Counter-Strike - Condition Zero (USA) (Disc 1).zip",
+      "size": "777558054",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Counter-Strike%20-%20Condition%20Zero%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Counter-Strike - Condition Zero (USA) (Disc 2).zip",
+      "size": "661755750",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Counter-Strike%20-%20Condition%20Zero%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Crazy Taxi (Europe) (En,Fr,De,Es,It) (Xplosiv).zip",
+      "size": "309321411",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Crazy%20Taxi%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Xplosiv%29.zip"
+    },
+    {
+      "name": " /Crazy Taxi (Europe) (En,Fr,De,Es,It).zip",
+      "size": "227938680",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Crazy%20Taxi%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Crazy Taxi 3 (Europe) (En,Fr,De,It) (Xplosiv).zip",
+      "size": "460731207",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Crazy%20Taxi%203%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29%20%28Xplosiv%29.zip"
+    },
+    {
+      "name": " /Crimson Skies (USA, Europe).zip",
+      "size": "604833953",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Crimson%20Skies%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Daytona USA (USA) (Rerelease).zip",
+      "size": "446972923",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Daytona%20USA%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Daytona USA (USA).zip",
+      "size": "419397690",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Daytona%20USA%20%28USA%29.zip"
+    },
+    {
+      "name": " /Daytona USA Deluxe Special Edition (USA).zip",
+      "size": "531840262",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Daytona%20USA%20Deluxe%20Special%20Edition%20%28USA%29.zip"
+    },
+    {
+      "name": " /Delta Force - Black Hawk Down - Team Sabre (USA, Europe).zip",
+      "size": "360043282",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Delta%20Force%20-%20Black%20Hawk%20Down%20-%20Team%20Sabre%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Delta Force - Xtreme 2 (USA).zip",
+      "size": "1009091388",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Delta%20Force%20-%20Xtreme%202%20%28USA%29.zip"
+    },
+    {
+      "name": " /Descent (Europe).zip",
+      "size": "10059282",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Descent (USA).zip",
+      "size": "10048756",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20%28USA%29.zip"
+    },
+    {
+      "name": " /Descent - Anniversary Edition (USA).zip",
+      "size": "52378306",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20-%20Anniversary%20Edition%20%28USA%29.zip"
+    },
+    {
+      "name": " /Descent - FreeSpace - The Great War (USA) (Disc 1).zip",
+      "size": "504848172",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20-%20FreeSpace%20-%20The%20Great%20War%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Descent - FreeSpace - The Great War (USA) (Disc 2).zip",
+      "size": "472845612",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20-%20FreeSpace%20-%20The%20Great%20War%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Descent 3 (USA) (Disc 1).zip",
+      "size": "620508973",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%203%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Descent 3 (USA) (Disc 2).zip",
+      "size": "434419187",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%203%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Descent II (USA).zip",
+      "size": "605995160",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20II%20%28USA%29.zip"
+    },
+    {
+      "name": " /Descent II - Destination Quartzon (USA) (Logitech OEM).zip",
+      "size": "460977605",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20II%20-%20Destination%20Quartzon%20%28USA%29%20%28Logitech%20OEM%29.zip"
+    },
+    {
+      "name": " /Descent II - The Vertigo Series (USA).zip",
+      "size": "301816587",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Descent%20II%20-%20The%20Vertigo%20Series%20%28USA%29.zip"
+    },
+    {
+      "name": " /Desperados (USA).zip",
+      "size": "386612468",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Desperados%20%28USA%29.zip"
+    },
+    {
+      "name": " /Desperados - Wanted Dead or Alive (USA) (Alt).zip",
+      "size": "757803070",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Desperados%20-%20Wanted%20Dead%20or%20Alive%20%28USA%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Deus Ex (USA) (Game of the Year Edition) (Alt).zip",
+      "size": "528241118",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Deus%20Ex%20%28USA%29%20%28Game%20of%20the%20Year%20Edition%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Deus Ex (USA) (Game of the Year Edition).zip",
+      "size": "528230713",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Deus%20Ex%20%28USA%29%20%28Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /Deus Ex Complete (Europe).zip",
+      "size": "2908083901",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Deus%20Ex%20Complete%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Devil May Cry 3 - Dante's Awakening (USA) (Disc 1) (Special Edition).zip",
+      "size": "779253482",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Devil%20May%20Cry%203%20-%20Dante%27s%20Awakening%20%28USA%29%20%28Disc%201%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Devil May Cry 3 - Dante's Awakening (USA) (Disc 2) (Special Edition).zip",
+      "size": "779848854",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Devil%20May%20Cry%203%20-%20Dante%27s%20Awakening%20%28USA%29%20%28Disc%202%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Devil May Cry 3 - Dante's Awakening (USA) (Disc 3) (Special Edition).zip",
+      "size": "779775700",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Devil%20May%20Cry%203%20-%20Dante%27s%20Awakening%20%28USA%29%20%28Disc%203%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Devil May Cry 3 - Dante's Awakening (USA) (Disc 4) (Special Edition).zip",
+      "size": "777537106",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Devil%20May%20Cry%203%20-%20Dante%27s%20Awakening%20%28USA%29%20%28Disc%204%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Devil May Cry 3 - Dante's Awakening (USA) (Disc 5) (Special Edition).zip",
+      "size": "295121658",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Devil%20May%20Cry%203%20-%20Dante%27s%20Awakening%20%28USA%29%20%28Disc%205%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Devil May Cry 4 (USA) (En,Ja,Fr,De,Es,It).zip",
+      "size": "7949539283",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Devil%20May%20Cry%204%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Diablo (USA) (Rerelease) (20001006).zip",
+      "size": "757173987",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20%28USA%29%20%28Rerelease%29%20%2820001006%29.zip"
+    },
+    {
+      "name": " /Diablo (USA, Europe).zip",
+      "size": "667941368",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Diablo II (USA) (Cinematics Disc).zip",
+      "size": "501154999",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20II%20%28USA%29%20%28Cinematics%20Disc%29.zip"
+    },
+    {
+      "name": " /Diablo II (USA) (Install Disc) (Rerelease) (20001010).zip",
+      "size": "652284871",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20II%20%28USA%29%20%28Install%20Disc%29%20%28Rerelease%29%20%2820001010%29.zip"
+    },
+    {
+      "name": " /Diablo II (USA) (Install Disc).zip",
+      "size": "623403461",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20II%20%28USA%29%20%28Install%20Disc%29.zip"
+    },
+    {
+      "name": " /Diablo II (USA) (Play Disc) (Rerelease) (20001010).zip",
+      "size": "680220764",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20II%20%28USA%29%20%28Play%20Disc%29%20%28Rerelease%29%20%2820001010%29.zip"
+    },
+    {
+      "name": " /Diablo II (USA) (Play Disc).zip",
+      "size": "685114981",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20II%20%28USA%29%20%28Play%20Disc%29.zip"
+    },
+    {
+      "name": " /Diablo II - Lord of Destruction (Expansion Set) (USA).zip",
+      "size": "631921182",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Diablo%20II%20-%20Lord%20of%20Destruction%20%28Expansion%20Set%29%20%28USA%29.zip"
+    },
+    {
+      "name": " /Dimensions for Descent (USA).zip",
+      "size": "2852582",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Dimensions%20for%20Descent%20%28USA%29.zip"
+    },
+    {
+      "name": " /Dino Crisis (USA).zip",
+      "size": "546161971",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Dino%20Crisis%20%28USA%29.zip"
+    },
+    {
+      "name": " /Dino Crisis 2 (USA).zip",
+      "size": "608464521",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Dino%20Crisis%202%20%28USA%29.zip"
+    },
+    {
+      "name": " /Dragon Age - Origins - Ultimate Edition (USA) (Disc 1).zip",
+      "size": "8283811663",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Dragon%20Age%20-%20Origins%20-%20Ultimate%20Edition%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Dragon Age - Origins - Ultimate Edition (USA) (Disc 2).zip",
+      "size": "5121691201",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Dragon%20Age%20-%20Origins%20-%20Ultimate%20Edition%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /DreamWorks Kung Fu Panda (USA) (En,Fr,De,Es,Nl,Sv).zip",
+      "size": "7651333615",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/DreamWorks%20Kung%20Fu%20Panda%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CNl%2CSv%29.zip"
+    },
+    {
+      "name": " /Driv3r (Europe) (En,Fr,De,Es,It).zip",
+      "size": "3735767881",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Driv3r%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Driver (Europe).zip",
+      "size": "613069686",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Driver%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Duke - The Apocalypse (USA, Europe).zip",
+      "size": "90948695",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20-%20The%20Apocalypse%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Duke - The Apocalypse 2 (Europe) (Disc 1) (Unlock the Secrets - Duke Nukem 3D).zip",
+      "size": "583268158",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20-%20The%20Apocalypse%202%20%28Europe%29%20%28Disc%201%29%20%28Unlock%20the%20Secrets%20-%20Duke%20Nukem%203D%29.zip"
+    },
+    {
+      "name": " /Duke - The Apocalypse 2 (Europe) (Disc 2) (Duke It Out in D.C. - Duke Zone).zip",
+      "size": "36545873",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20-%20The%20Apocalypse%202%20%28Europe%29%20%28Disc%202%29%20%28Duke%20It%20Out%20in%20D.C.%20-%20Duke%20Zone%29.zip"
+    },
+    {
+      "name": " /Duke Nukem - Manhattan Project (USA) (OEM).zip",
+      "size": "544831025",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20Nukem%20-%20Manhattan%20Project%20%28USA%29%20%28OEM%29.zip"
+    },
+    {
+      "name": " /Duke Nukem - Manhattan Project (USA).zip",
+      "size": "598350724",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20Nukem%20-%20Manhattan%20Project%20%28USA%29.zip"
+    },
+    {
+      "name": " /Duke Nukem 3D - Atomic Edition (Europe) (Rerelease).zip",
+      "size": "684972378",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20Nukem%203D%20-%20Atomic%20Edition%20%28Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Duke Nukem 3D - Kill-A-Ton Collection (USA) (Disc 1).zip",
+      "size": "673128933",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20Nukem%203D%20-%20Kill-A-Ton%20Collection%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Duke Nukem 3D - Kill-A-Ton Collection (USA) (Disc 2).zip",
+      "size": "583245836",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20Nukem%203D%20-%20Kill-A-Ton%20Collection%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Duke Nukem 3D - Kill-A-Ton Collection (USA) (Disc 3).zip",
+      "size": "88007444",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20Nukem%203D%20-%20Kill-A-Ton%20Collection%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Duke Xtreme (USA).zip",
+      "size": "48410191",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%20Xtreme%20%28USA%29.zip"
+    },
+    {
+      "name": " /Duke!Zone (USA).zip",
+      "size": "29894448",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%21Zone%20%28USA%29.zip"
+    },
+    {
+      "name": " /Duke!Zone 150 (USA).zip",
+      "size": "12086512",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Duke%21Zone%20150%20%28USA%29.zip"
+    },
+    {
+      "name": " /Elder Scrolls Adventures, The - Redguard (USA) (Disc 1) (Install Disc).zip",
+      "size": "365639250",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Elder%20Scrolls%20Adventures%2C%20The%20-%20Redguard%20%28USA%29%20%28Disc%201%29%20%28Install%20Disc%29.zip"
+    },
+    {
+      "name": " /Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc).zip",
+      "size": "704079123",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Elder%20Scrolls%20Adventures%2C%20The%20-%20Redguard%20%28USA%29%20%28Disc%202%29%20%28Play%20Disc%29.zip"
+    },
+    {
+      "name": " /Elder Scrolls III, The - Bloodmoon (USA).zip",
+      "size": "557958309",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Elder%20Scrolls%20III%2C%20The%20-%20Bloodmoon%20%28USA%29.zip"
+    },
+    {
+      "name": " /Elder Scrolls III, The - Tribunal (USA).zip",
+      "size": "358959818",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Elder%20Scrolls%20III%2C%20The%20-%20Tribunal%20%28USA%29.zip"
+    },
+    {
+      "name": " /Elder Scrolls IV, The - Oblivion (USA) (Collector's Edition).zip",
+      "size": "4485896821",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28USA%29%20%28Collector%27s%20Edition%29.zip"
+    },
+    {
+      "name": " /Elder Scrolls, The - Chapter II - Daggerfall (USA).zip",
+      "size": "259458541",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Elder%20Scrolls%2C%20The%20-%20Chapter%20II%20-%20Daggerfall%20%28USA%29.zip"
+    },
+    {
+      "name": " /Empire Earth (USA).zip",
+      "size": "544967303",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Empire%20Earth%20%28USA%29.zip"
+    },
+    {
+      "name": " /Exhumed (Europe).zip",
+      "size": "319723431",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Exhumed%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Expendable (Europe) (En,Fr,De,Es,It).zip",
+      "size": "457693310",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Expendable%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /F.E.A.R. - First Encounter Assault Recon - Gold Edition (USA).zip",
+      "size": "7136296609",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/F.E.A.R.%20-%20First%20Encounter%20Assault%20Recon%20-%20Gold%20Edition%20%28USA%29.zip"
+    },
+    {
+      "name": " /F.E.A.R. - First Encounter Assault Recon - Perseus Mandate (USA).zip",
+      "size": "4147756604",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/F.E.A.R.%20-%20First%20Encounter%20Assault%20Recon%20-%20Perseus%20Mandate%20%28USA%29.zip"
+    },
+    {
+      "name": " /Fable (Europe).zip",
+      "size": "249700980",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Fable%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Fallout (Europe) (En,Fr,Es) (Alt).zip",
+      "size": "652310083",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Fallout%20%28Europe%29%20%28En%2CFr%2CEs%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Fallout - Radioactive (Europe) (En,Fr,De).zip",
+      "size": "551860676",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Fallout%20-%20Radioactive%20%28Europe%29%20%28En%2CFr%2CDe%29.zip"
+    },
+    {
+      "name": " /Fallout 2 (Europe) (Rerelease) (20001108).zip",
+      "size": "680810806",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Fallout%202%20%28Europe%29%20%28Rerelease%29%20%2820001108%29.zip"
+    },
+    {
+      "name": " /Fallout Tactics - Brotherhood of Steel (Europe) (Disc 1).zip",
+      "size": "689759317",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Fallout%20Tactics%20-%20Brotherhood%20of%20Steel%20%28Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Fallout Tactics - Brotherhood of Steel (Europe) (Disc 2).zip",
+      "size": "742580512",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Fallout%20Tactics%20-%20Brotherhood%20of%20Steel%20%28Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Fallout Tactics - Brotherhood of Steel (Europe) (Disc 3).zip",
+      "size": "714856943",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Fallout%20Tactics%20-%20Brotherhood%20of%20Steel%20%28Europe%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Final Fantasy VII (USA) (Disc 1) (Alt).zip",
+      "size": "555412226",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%201%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Final Fantasy VII (USA) (Disc 1).zip",
+      "size": "555412321",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Final Fantasy VII (USA) (Disc 2) (Alt).zip",
+      "size": "617353532",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%202%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Final Fantasy VII (USA) (Disc 2).zip",
+      "size": "617353626",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Final Fantasy VII (USA) (Disc 3) (Alt 2).zip",
+      "size": "473859703",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%203%29%20%28Alt%202%29.zip"
+    },
+    {
+      "name": " /Final Fantasy VII (USA) (Disc 3).zip",
+      "size": "473870021",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Final Fantasy VII (USA) (Install Disc).zip",
+      "size": "382201145",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Final%20Fantasy%20VII%20%28USA%29%20%28Install%20Disc%29.zip"
+    },
+    {
+      "name": " /FlatOut (Europe) (En,Fr,Es,It) (Disc 1).zip",
+      "size": "601176194",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/FlatOut%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /FlatOut (Europe) (En,Fr,Es,It) (Disc 2).zip",
+      "size": "749731878",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/FlatOut%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Ford Racing 2001 (Europe) (Xplosiv).zip",
+      "size": "406318815",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Ford%20Racing%202001%20%28Europe%29%20%28Xplosiv%29.zip"
+    },
+    {
+      "name": " /Forsaken (USA).zip",
+      "size": "584910238",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Forsaken%20%28USA%29.zip"
+    },
+    {
+      "name": " /Freelancer (USA).zip",
+      "size": "681131560",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Freelancer%20%28USA%29.zip"
+    },
+    {
+      "name": " /Garfield - Caught in the Act (USA) (Rerelease) (19971024).zip",
+      "size": "292072713",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Garfield%20-%20Caught%20in%20the%20Act%20%28USA%29%20%28Rerelease%29%20%2819971024%29.zip"
+    },
+    {
+      "name": " /Giants - Citizen Kabuto (Europe) (En,Fr,De,Es,It) (Disc 1) (OEM) (20010713).zip",
+      "size": "744130217",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Giants%20-%20Citizen%20Kabuto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29%20%28OEM%29%20%2820010713%29.zip"
+    },
+    {
+      "name": " /Giants - Citizen Kabuto (Europe) (En,Fr,De,Es,It) (Disc 2) (OEM) (20010713).zip",
+      "size": "778576430",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Giants%20-%20Citizen%20Kabuto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29%20%28OEM%29%20%2820010713%29.zip"
+    },
+    {
+      "name": " /Giants - Citizen Kabuto (USA) (Disc 1).zip",
+      "size": "698508463",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Giants%20-%20Citizen%20Kabuto%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Giants - Citizen Kabuto (USA) (Disc 2).zip",
+      "size": "774956583",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Giants%20-%20Citizen%20Kabuto%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Godfather, The - The Game (USA).zip",
+      "size": "3395669751",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Godfather%2C%20The%20-%20The%20Game%20%28USA%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto (USA) (En,Fr,De,It) (The Classics Collection).zip",
+      "size": "424494316",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20%28USA%29%20%28En%2CFr%2CDe%2CIt%29%20%28The%20Classics%20Collection%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto (USA) (En,Fr,De,It).zip",
+      "size": "677293818",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20%28USA%29%20%28En%2CFr%2CDe%2CIt%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto (USA) (Rev 1) (Alt).zip",
+      "size": "676452586",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20%28USA%29%20%28Rev%201%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (En,Fr,De,It) (The Classics Collection).zip",
+      "size": "367704014",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20Mission%20Pack%201%20-%20London%201969%20%28USA%29%20%28En%2CFr%2CDe%2CIt%29%20%28The%20Classics%20Collection%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (En,Fr,De,It).zip",
+      "size": "598311780",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20Mission%20Pack%201%20-%20London%201969%20%28USA%29%20%28En%2CFr%2CDe%2CIt%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - San Andreas (Europe) (En,Fr,De,Es,It) (v2.0).zip",
+      "size": "4192909012",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20San%20Andreas%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28v2.0%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - San Andreas (Europe) (En,Fr,De,Es,It).zip",
+      "size": "4195447573",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20San%20Andreas%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - San Andreas (USA) (En,Es) (v2.0).zip",
+      "size": "4191444722",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20San%20Andreas%20%28USA%29%20%28En%2CEs%29%20%28v2.0%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - San Andreas (USA).zip",
+      "size": "4193973775",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20San%20Andreas%20%28USA%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - Vice City (USA) (En,Fr,De,Es,It) (Install).zip",
+      "size": "800971906",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20Vice%20City%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Install%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto - Vice City (USA, Europe) (En,Fr,De,Es,It) (Play).zip",
+      "size": "747313427",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20-%20Vice%20City%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Play%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto 2 (Canada) (En,Es).zip",
+      "size": "539124337",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%202%20%28Canada%29%20%28En%2CEs%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It).zip",
+      "size": "539648132",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto 2 (USA) (En,Es) (The Classics Collection).zip",
+      "size": "414658727",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%202%20%28USA%29%20%28En%2CEs%29%20%28The%20Classics%20Collection%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (Install).zip",
+      "size": "387559584",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20III%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Install%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (Play).zip",
+      "size": "590613403",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20III%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Play%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto III (USA) (Install).zip",
+      "size": "269477895",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20III%20%28USA%29%20%28Install%29.zip"
+    },
+    {
+      "name": " /Grand Theft Auto III (USA) (Play).zip",
+      "size": "590602682",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Grand%20Theft%20Auto%20III%20%28USA%29%20%28Play%29.zip"
+    },
+    {
+      "name": " /H!Zone (USA).zip",
+      "size": "39239004",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/H%21Zone%20%28USA%29.zip"
+    },
+    {
+      "name": " /Half-Life (USA) (Game of the Year Edition).zip",
+      "size": "661234860",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Half-Life%20%28USA%29%20%28Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /Half-Life - Blue Shift (USA).zip",
+      "size": "683033819",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Half-Life%20-%20Blue%20Shift%20%28USA%29.zip"
+    },
+    {
+      "name": " /Half-Life - Initial Encounter (USA).zip",
+      "size": "440317618",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Half-Life%20-%20Initial%20Encounter%20%28USA%29.zip"
+    },
+    {
+      "name": " /Half-Life - Opposing Force (USA).zip",
+      "size": "529699083",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Half-Life%20-%20Opposing%20Force%20%28USA%29.zip"
+    },
+    {
+      "name": " /Harry Potter and the Prisoner of Azkaban (USA).zip",
+      "size": "612099164",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%29.zip"
+    },
+    {
+      "name": " /Heart of Darkness (USA).zip",
+      "size": "561443386",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Heart%20of%20Darkness%20%28USA%29.zip"
+    },
+    {
+      "name": " /Heavy Metal - F.A.K.K. 2 (USA).zip",
+      "size": "523600613",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Heavy%20Metal%20-%20F.A.K.K.%202%20%28USA%29.zip"
+    },
+    {
+      "name": " /Heretic - Shadow of the Serpent Riders (USA) (Rerelease).zip",
+      "size": "76806443",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Heretic%20-%20Shadow%20of%20the%20Serpent%20Riders%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Heretic - Shadow of the Serpent Riders (USA) (Rev 1).zip",
+      "size": "70773874",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Heretic%20-%20Shadow%20of%20the%20Serpent%20Riders%20%28USA%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Heretic II (USA) (Rerelease).zip",
+      "size": "739282908",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Heretic%20II%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Heretic II (USA).zip",
+      "size": "743158027",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Heretic%20II%20%28USA%29.zip"
+    },
+    {
+      "name": " /Hexen - Beyond Heretic (Europe).zip",
+      "size": "595979787",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Hexen - Beyond Heretic (USA).zip",
+      "size": "615721481",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hexen%20-%20Beyond%20Heretic%20%28USA%29.zip"
+    },
+    {
+      "name": " /Hexen - Deathkings of the Dark Citadel (Europe).zip",
+      "size": "2630750",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hexen%20-%20Deathkings%20of%20the%20Dark%20Citadel%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Hexen - Deathkings of the Dark Citadel (USA) (Rev 1).zip",
+      "size": "62227015",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hexen%20-%20Deathkings%20of%20the%20Dark%20Citadel%20%28USA%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Hexen II (USA).zip",
+      "size": "606988132",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hexen%20II%20%28USA%29.zip"
+    },
+    {
+      "name": " /Hexen II Mission Pack - Portal of Praevus (USA).zip",
+      "size": "600138901",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hexen%20II%20Mission%20Pack%20-%20Portal%20of%20Praevus%20%28USA%29.zip"
+    },
+    {
+      "name": " /Hexmaker (Europe).zip",
+      "size": "63477103",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hexmaker%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Hitman - Codename 47 (USA) (En,Fr,De,Es,It).zip",
+      "size": "336929127",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hitman%20-%20Codename%2047%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Hitman - Contracts (USA) (Disc 1).zip",
+      "size": "685622694",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hitman%20-%20Contracts%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Hitman - Contracts (USA) (Disc 2).zip",
+      "size": "412245356",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hitman%20-%20Contracts%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Hot Wheels - Jetz (USA).zip",
+      "size": "148795481",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hot%20Wheels%20-%20Jetz%20%28USA%29.zip"
+    },
+    {
+      "name": " /Hot Wheels - Mechanix (USA).zip",
+      "size": "91925030",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Hot%20Wheels%20-%20Mechanix%20%28USA%29.zip"
+    },
+    {
+      "name": " /House of the Dead 2, The (Europe).zip",
+      "size": "518874766",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/House%20of%20the%20Dead%202%2C%20The%20%28Europe%29.zip"
+    },
+    {
+      "name": " /House of the Dead III, The (Europe) (En,Fr,Es,It).zip",
+      "size": "628799387",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/House%20of%20the%20Dead%20III%2C%20The%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Ian Livingstone's Deathtrap Dungeon (Europe) (Alt).zip",
+      "size": "561781568",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Ian%20Livingstone%27s%20Deathtrap%20Dungeon%20%28Europe%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Ian Livingstone's Deathtrap Dungeon (Europe).zip",
+      "size": "561774196",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Ian%20Livingstone%27s%20Deathtrap%20Dungeon%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Jazz Jackrabbit (USA) (Rerelease).zip",
+      "size": "49201761",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Jazz%20Jackrabbit%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Juggernaut (USA) (Deluxe Edition).zip",
+      "size": "33721838",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Juggernaut%20%28USA%29%20%28Deluxe%20Edition%29.zip"
+    },
+    {
+      "name": " /Juggernaut (USA).zip",
+      "size": "148690145",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Juggernaut%20%28USA%29.zip"
+    },
+    {
+      "name": " /Just Cause (Europe) (En,Fr,De,Es,It).zip",
+      "size": "6691547401",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Just%20Cause%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /KISS Psycho Circus - The Nightmare Child & Heavy Metal - F.A.K.K. 2 - Bonus Disc! (USA).zip",
+      "size": "681619333",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/KISS%20Psycho%20Circus%20-%20The%20Nightmare%20Child%20%26%20Heavy%20Metal%20-%20F.A.K.K.%202%20-%20Bonus%20Disc%21%20%28USA%29.zip"
+    },
+    {
+      "name": " /LEGO Island (USA).zip",
+      "size": "542525798",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/LEGO%20Island%20%28USA%29.zip"
+    },
+    {
+      "name": " /Lara Croft Tomb Raider - Anniversary (Europe) (En,Fr,De,Es,It).zip",
+      "size": "2767552423",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Lara%20Croft%20Tomb%20Raider%20-%20Anniversary%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Lara Croft Tomb Raider - Anniversary (USA) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "2784809584",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Lara%20Croft%20Tomb%20Raider%20-%20Anniversary%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It).zip",
+      "size": "4575131802",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "4577852064",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Lara Croft Tomb Raider - Legend (USA) (En,Fr,Es).zip",
+      "size": "4572109035",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28USA%29%20%28En%2CFr%2CEs%29.zip"
+    },
+    {
+      "name": " /Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 1) (Rerelease).zip",
+      "size": "829434628",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Lara%20Croft%20Tomb%20Raider%20-%20The%20Angel%20of%20Darkness%20%28USA%29%20%28Disc%201%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 2) (Rerelease).zip",
+      "size": "828563642",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Lara%20Croft%20Tomb%20Raider%20-%20The%20Angel%20of%20Darkness%20%28USA%29%20%28Disc%202%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Last Bronx (Europe).zip",
+      "size": "512466277",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Last%20Bronx%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Last Bronx (USA).zip",
+      "size": "512347832",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Last%20Bronx%20%28USA%29.zip"
+    },
+    {
+      "name": " /Layer Section (Europe).zip",
+      "size": "695694095",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Layer%20Section%20%28Europe%29.zip"
+    },
+    {
+      "name": " /MDK (Europe) (En,Fr,Es,It,Pl).zip",
+      "size": "164881766",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MDK%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%2CPl%29.zip"
+    },
+    {
+      "name": " /MDK (USA).zip",
+      "size": "154031724",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MDK%20%28USA%29.zip"
+    },
+    {
+      "name": " /MDK2 (USA) (En,Fr,De,Es,It).zip",
+      "size": "457872351",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MDK2%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Mafia (USA) (Disc 1).zip",
+      "size": "713634862",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Mafia%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Mafia (USA) (Disc 2).zip",
+      "size": "729197999",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Mafia%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Mafia (USA) (Disc 3).zip",
+      "size": "716542108",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Mafia%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Marc Ecko's Getting Up - Contents Under Pressure (Europe) (En,Fr,De,Es,It).zip",
+      "size": "2253110007",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Marc%20Ecko%27s%20Getting%20Up%20-%20Contents%20Under%20Pressure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Max Payne (USA, Europe).zip",
+      "size": "815390351",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Max%20Payne%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Max Payne 2 - The Fall of Max Payne (USA) (Install).zip",
+      "size": "832815489",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Max%20Payne%202%20-%20The%20Fall%20of%20Max%20Payne%20%28USA%29%20%28Install%29.zip"
+    },
+    {
+      "name": " /Max Payne 2 - The Fall of Max Payne (USA) (Play).zip",
+      "size": "739118815",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Max%20Payne%202%20-%20The%20Fall%20of%20Max%20Payne%20%28USA%29%20%28Play%29.zip"
+    },
+    {
+      "name": " /MechWarrior 2 - 31st Century Combat (USA, Australia) (v1.1).zip",
+      "size": "640461889",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%202%20-%2031st%20Century%20Combat%20%28USA%2C%20Australia%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": " /MechWarrior 2 - Mercenaries (USA) (v1.05).zip",
+      "size": "652407473",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%202%20-%20Mercenaries%20%28USA%29%20%28v1.05%29.zip"
+    },
+    {
+      "name": " /MechWarrior 3 (USA).zip",
+      "size": "624970304",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%203%20%28USA%29.zip"
+    },
+    {
+      "name": " /MechWarrior 3 - Pirate's Moon (Expansion Pack) (USA).zip",
+      "size": "323446564",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%203%20-%20Pirate%27s%20Moon%20%28Expansion%20Pack%29%20%28USA%29.zip"
+    },
+    {
+      "name": " /MechWarrior 4 - Black Knight Expansion (USA).zip",
+      "size": "645779448",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%204%20-%20Black%20Knight%20Expansion%20%28USA%29.zip"
+    },
+    {
+      "name": " /MechWarrior 4 - Mercenaries (USA) (Disc 1) (Alt).zip",
+      "size": "678759035",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%204%20-%20Mercenaries%20%28USA%29%20%28Disc%201%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /MechWarrior 4 - Mercenaries (USA) (Disc 1).zip",
+      "size": "677470849",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%204%20-%20Mercenaries%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /MechWarrior 4 - Mercenaries (USA) (Disc 2).zip",
+      "size": "644655105",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/MechWarrior%204%20-%20Mercenaries%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Medal of Honor - Pacific Assault (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Pl).zip",
+      "size": "3335426077",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Medal%20of%20Honor%20-%20Pacific%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%2CPl%29.zip"
+    },
+    {
+      "name": " /Midtown Madness (USA) (Alt).zip",
+      "size": "585438569",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Midtown%20Madness%20%28USA%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Moto Racer (USA).zip",
+      "size": "424860753",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Moto%20Racer%20%28USA%29.zip"
+    },
+    {
+      "name": " /Moto Racer 2 (USA) (En,Fr,De,Es,It,Sv).zip",
+      "size": "555075021",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Moto%20Racer%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.zip"
+    },
+    {
+      "name": " /Motocross Madness (USA) (En,Fr,De).zip",
+      "size": "539607818",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Motocross%20Madness%20%28USA%29%20%28En%2CFr%2CDe%29.zip"
+    },
+    {
+      "name": " /Motocross Madness 2 (USA).zip",
+      "size": "640048257",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Motocross%20Madness%202%20%28USA%29.zip"
+    },
+    {
+      "name": " /Nam (USA, Europe).zip",
+      "size": "631208542",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Nam%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Carbon - Collector's Edition (USA) (Game Disc).zip",
+      "size": "4227383935",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Carbon%20-%20Collector%27s%20Edition%20%28USA%29%20%28Game%20Disc%29.zip"
+    },
+    {
+      "name": " /Need for Speed - High Stakes (USA) (En,Es).zip",
+      "size": "570629221",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20High%20Stakes%20%28USA%29%20%28En%2CEs%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Hot Pursuit 2 (USA) (En,Fr,De,Es,It,Sv,Ko).zip",
+      "size": "520112876",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Hot%20Pursuit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CKo%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Most Wanted - Black Edition (USA) (Disc 1).zip",
+      "size": "783584589",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Most%20Wanted%20-%20Black%20Edition%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Most Wanted - Black Edition (USA) (Disc 2).zip",
+      "size": "834500811",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Most%20Wanted%20-%20Black%20Edition%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Most Wanted - Black Edition (USA) (Disc 3).zip",
+      "size": "835594469",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Most%20Wanted%20-%20Black%20Edition%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Most Wanted - Black Edition (USA) (Disc 4).zip",
+      "size": "193450262",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Most%20Wanted%20-%20Black%20Edition%20%28USA%29%20%28Disc%204%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Porsche Unleashed (USA).zip",
+      "size": "572847139",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Porsche%20Unleashed%20%28USA%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Road Challenge (Europe) (En,Es,Sv).zip",
+      "size": "570833808",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Road%20Challenge%20%28Europe%29%20%28En%2CEs%2CSv%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Underground (USA) (En,Fr,De,Es,It,Nl,Sv,Zh,Ko) (Disc 1).zip",
+      "size": "643722687",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Underground%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CZh%2CKo%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Underground (USA) (En,Fr,De,Es,It,Nl,Sv,Zh,Ko) (Disc 2).zip",
+      "size": "653110101",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Underground%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CZh%2CKo%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Underground 2 (USA) (Disc 1).zip",
+      "size": "794108497",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Underground%202%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Need for Speed - Underground 2 (USA) (Disc 2).zip",
+      "size": "774536031",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20-%20Underground%202%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Need for Speed II SE (USA) (En,Es) (Alt).zip",
+      "size": "597365366",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20II%20SE%20%28USA%29%20%28En%2CEs%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Need for Speed III - Hot Pursuit (USA, Asia) (En,Es).zip",
+      "size": "505726086",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Need%20for%20Speed%20III%20-%20Hot%20Pursuit%20%28USA%2C%20Asia%29%20%28En%2CEs%29.zip"
+    },
+    {
+      "name": " /Neverwinter Nights Complete (USA) (Disc 1).zip",
+      "size": "7998471548",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Neverwinter%20Nights%20Complete%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Neverwinter Nights Complete (USA) (Disc 2).zip",
+      "size": "2922922094",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Neverwinter%20Nights%20Complete%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /No One Lives Forever 2 - A Spy in H.A.R.M.'s Way (Europe) (Disc 1).zip",
+      "size": "615237763",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/No%20One%20Lives%20Forever%202%20-%20A%20Spy%20in%20H.A.R.M.%27s%20Way%20%28Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /No One Lives Forever 2 - A Spy in H.A.R.M.'s Way (Europe) (Disc 2).zip",
+      "size": "529100436",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/No%20One%20Lives%20Forever%202%20-%20A%20Spy%20in%20H.A.R.M.%27s%20Way%20%28Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /No One Lives Forever 2 - A Spy in H.A.R.M.'s Way (USA) (Disc 1).zip",
+      "size": "617870505",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/No%20One%20Lives%20Forever%202%20-%20A%20Spy%20in%20H.A.R.M.%27s%20Way%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /No One Lives Forever 2 - A Spy in H.A.R.M.'s Way (USA) (Disc 2).zip",
+      "size": "525538563",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/No%20One%20Lives%20Forever%202%20-%20A%20Spy%20in%20H.A.R.M.%27s%20Way%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Nox (USA) (Disc 1).zip",
+      "size": "790426857",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Nox%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Nox (USA) (Disc 2).zip",
+      "size": "809867682",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Nox%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Off-Road Redneck Racing (USA).zip",
+      "size": "485993336",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Off-Road%20Redneck%20Racing%20%28USA%29.zip"
+    },
+    {
+      "name": " /Official Duke Nukem 3D Level Design Handbook (USA).zip",
+      "size": "49155466",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Official%20Duke%20Nukem%203D%20Level%20Design%20Handbook%20%28USA%29.zip"
+    },
+    {
+      "name": " /One Must Fall - Battlegrounds (USA).zip",
+      "size": "757482525",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/One%20Must%20Fall%20-%20Battlegrounds%20%28USA%29.zip"
+    },
+    {
+      "name": " /One Must Fall 2097 (USA) (Rev 1).zip",
+      "size": "16797062",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/One%20Must%20Fall%202097%20%28USA%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /One Unit Whole Blood (USA).zip",
+      "size": "664445253",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/One%20Unit%20Whole%20Blood%20%28USA%29.zip"
+    },
+    {
+      "name": " /Oni (Europe) (En,Fr,De).zip",
+      "size": "718916994",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Oni%20%28Europe%29%20%28En%2CFr%2CDe%29.zip"
+    },
+    {
+      "name": " /Oni (Scandinavia) (En,Es,It) (Rerelease).zip",
+      "size": "742610054",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Oni%20%28Scandinavia%29%20%28En%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Oni (USA).zip",
+      "size": "498170176",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Oni%20%28USA%29.zip"
+    },
+    {
+      "name": " /Onimusha 3 (Europe) (En,Fr,De,Es,It).zip",
+      "size": "1382683537",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Onimusha%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Onimusha 3 - Demon Siege (USA) (En,Fr,De,Es,It) (Disc 1).zip",
+      "size": "737204122",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Onimusha%203%20-%20Demon%20Siege%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Onimusha 3 - Demon Siege (USA) (En,Fr,De,Es,It) (Disc 2).zip",
+      "size": "742856772",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Onimusha%203%20-%20Demon%20Siege%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Onimusha 3 - Demon Siege (USA) (En,Fr,De,Es,It) (Disc 3).zip",
+      "size": "164977216",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Onimusha%203%20-%20Demon%20Siege%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Operative, The - No One Lives Forever (Europe) (Disc 1) (Game of the Year Edition).zip",
+      "size": "425679354",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Operative%2C%20The%20-%20No%20One%20Lives%20Forever%20%28Europe%29%20%28Disc%201%29%20%28Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /Operative, The - No One Lives Forever (USA) (Disc 1) (Game of the Year Edition).zip",
+      "size": "383725351",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Operative%2C%20The%20-%20No%20One%20Lives%20Forever%20%28USA%29%20%28Disc%201%29%20%28Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /Operative, The - No One Lives Forever (USA, Europe) (Disc 2) (Game of the Year Edition).zip",
+      "size": "376046155",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Operative%2C%20The%20-%20No%20One%20Lives%20Forever%20%28USA%2C%20Europe%29%20%28Disc%202%29%20%28Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It) (Alt 2).zip",
+      "size": "1025338657",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/OutRun%202006%20-%20Coast%202%20Coast%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Alt%202%29.zip"
+    },
+    {
+      "name": " /OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It).zip",
+      "size": "1025338663",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/OutRun%202006%20-%20Coast%202%20Coast%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /OutRun 2006 - Coast 2 Coast (Italy) (En,Fr,De,Es,It) (Covermount).zip",
+      "size": "1025338692",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/OutRun%202006%20-%20Coast%202%20Coast%20%28Italy%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Covermount%29.zip"
+    },
+    {
+      "name": " /Pac-Man - Adventures in Time (USA).zip",
+      "size": "425206080",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pac-Man%20-%20Adventures%20in%20Time%20%28USA%29.zip"
+    },
+    {
+      "name": " /Pac-Man All-Stars (USA) (Rerelease).zip",
+      "size": "256971888",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pac-Man%20All-Stars%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Pac-Man World 2 (USA) (En,Fr,De,Es,It).zip",
+      "size": "578182085",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pac-Man%20World%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Pac-Man World 3 (USA).zip",
+      "size": "1399364135",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pac-Man%20World%203%20%28USA%29.zip"
+    },
+    {
+      "name": " /Pac-Man World Rally (USA).zip",
+      "size": "383987965",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pac-Man%20World%20Rally%20%28USA%29.zip"
+    },
+    {
+      "name": " /Painkiller - Complete Collection (Europe) (Disc 1).zip",
+      "size": "6617395932",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Painkiller%20-%20Complete%20Collection%20%28Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Painkiller - Complete Collection (Europe) (Disc 2).zip",
+      "size": "7796815121",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Painkiller%20-%20Complete%20Collection%20%28Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Painkiller - Heaven's Got a Hitman (USA) (Demo).zip",
+      "size": "647291801",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Painkiller%20-%20Heaven%27s%20Got%20a%20Hitman%20%28USA%29%20%28Demo%29.zip"
+    },
+    {
+      "name": " /Painkiller - Heaven's Got a Hitman (USA, Europe) (Disc 1).zip",
+      "size": "778399789",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Painkiller%20-%20Heaven%27s%20Got%20a%20Hitman%20%28USA%2C%20Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Painkiller - Heaven's Got a Hitman (USA, Europe) (Disc 2).zip",
+      "size": "778659493",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Painkiller%20-%20Heaven%27s%20Got%20a%20Hitman%20%28USA%2C%20Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Painkiller - Heaven's Got a Hitman (USA, Europe) (Disc 3).zip",
+      "size": "752057490",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Painkiller%20-%20Heaven%27s%20Got%20a%20Hitman%20%28USA%2C%20Europe%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Pandemonium! (Europe).zip",
+      "size": "588247862",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pandemonium%21%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Pandemonium! (USA).zip",
+      "size": "582900890",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pandemonium%21%20%28USA%29.zip"
+    },
+    {
+      "name": " /Panzer Dragoon (Europe).zip",
+      "size": "546260428",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Panzer%20Dragoon%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Panzer Dragoon (USA) (OEM).zip",
+      "size": "513055066",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Panzer%20Dragoon%20%28USA%29%20%28OEM%29.zip"
+    },
+    {
+      "name": " /Panzer Dragoon (USA).zip",
+      "size": "546296379",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Panzer%20Dragoon%20%28USA%29.zip"
+    },
+    {
+      "name": " /Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Disc 1).zip",
+      "size": "776750057",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Peter%20Jackson%27s%20King%20Kong%20-%20The%20Official%20Game%20of%20the%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Disc 2).zip",
+      "size": "779808219",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Peter%20Jackson%27s%20King%20Kong%20-%20The%20Official%20Game%20of%20the%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Disc 3).zip",
+      "size": "217768669",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Peter%20Jackson%27s%20King%20Kong%20-%20The%20Official%20Game%20of%20the%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Pirates of the Caribbean - The Legend of Jack Sparrow (USA).zip",
+      "size": "1288100846",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pirates%20of%20the%20Caribbean%20-%20The%20Legend%20of%20Jack%20Sparrow%20%28USA%29.zip"
+    },
+    {
+      "name": " /Pitfall - The Mayan Adventure (Europe) (En,Fr,Es,It).zip",
+      "size": "565142803",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Pitfall%20-%20The%20Mayan%20Adventure%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Postal - 10th Anniversary Collectors Edition (USA).zip",
+      "size": "3902556258",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Postal%20-%2010th%20Anniversary%20Collectors%20Edition%20%28USA%29.zip"
+    },
+    {
+      "name": " /Powerslave (USA).zip",
+      "size": "320622627",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Powerslave%20%28USA%29.zip"
+    },
+    {
+      "name": " /Prey (USA) (En,Fr,De,Es,It).zip",
+      "size": "1723166006",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Prey%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "1644553144",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Prince of Persia - Warrior Within (USA, Europe) (En,Fr,De,Es,It,Nl) (Rerelease).zip",
+      "size": "4193920137",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Prince%20of%20Persia%20-%20Warrior%20Within%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Prince of Persia 3D (Europe) (Disc 1).zip",
+      "size": "420653960",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Prince%20of%20Persia%203D%20%28Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Prince of Persia 3D (Europe) (Disc 2).zip",
+      "size": "421062532",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Prince%20of%20Persia%203D%20%28Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Prince of Persia Collection - Limited Edition (USA).zip",
+      "size": "576661370",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Prince%20of%20Persia%20Collection%20-%20Limited%20Edition%20%28USA%29.zip"
+    },
+    {
+      "name": " /Project - Snowblind (Europe) (En,Fr,De,Es,It).zip",
+      "size": "3072627866",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Project%20-%20Snowblind%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Psychonauts (Europe) (En,Fr,De).zip",
+      "size": "4504502288",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Psychonauts%20%28Europe%29%20%28En%2CFr%2CDe%29.zip"
+    },
+    {
+      "name": " /Q.E.D. II Level Creator for Quake II, Hexen II & Quake (USA).zip",
+      "size": "29419116",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Q.E.D.%20II%20Level%20Creator%20for%20Quake%20II%2C%20Hexen%20II%20%26%20Quake%20%28USA%29.zip"
+    },
+    {
+      "name": " /Quake (USA) (Rerelease) (19971125) (Alt).zip",
+      "size": "623765174",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20%28USA%29%20%28Rerelease%29%20%2819971125%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Quake (USA) (Rerelease) (19980921).zip",
+      "size": "623840665",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20%28USA%29%20%28Rerelease%29%20%2819980921%29.zip"
+    },
+    {
+      "name": " /Quake (USA) (v1.06).zip",
+      "size": "592748866",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20%28USA%29%20%28v1.06%29.zip"
+    },
+    {
+      "name": " /Quake (USA).zip",
+      "size": "669299535",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20%28USA%29.zip"
+    },
+    {
+      "name": " /Quake 4 (World) (Bonus DVD).zip",
+      "size": "1642149596",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%204%20%28World%29%20%28Bonus%20DVD%29.zip"
+    },
+    {
+      "name": " /Quake 4 (World) (En,Fr,Es,It).zip",
+      "size": "2864437371",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%204%20%28World%29%20%28En%2CFr%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Quake II (USA) (Rerelease) (20010503).zip",
+      "size": "617428801",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20II%20%28USA%29%20%28Rerelease%29%20%2820010503%29.zip"
+    },
+    {
+      "name": " /Quake II Mission Pack - Ground Zero (USA).zip",
+      "size": "512665249",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20II%20Mission%20Pack%20-%20Ground%20Zero%20%28USA%29.zip"
+    },
+    {
+      "name": " /Quake II Mission Pack - The Reckoning (USA) (Alt 2).zip",
+      "size": "460063505",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20II%20Mission%20Pack%20-%20The%20Reckoning%20%28USA%29%20%28Alt%202%29.zip"
+    },
+    {
+      "name": " /Quake II Mission Pack - The Reckoning (USA) (Alt).zip",
+      "size": "460063459",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20II%20Mission%20Pack%20-%20The%20Reckoning%20%28USA%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Quake II Mission Pack - The Reckoning (USA).zip",
+      "size": "460063452",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20II%20Mission%20Pack%20-%20The%20Reckoning%20%28USA%29.zip"
+    },
+    {
+      "name": " /Quake II Netpack I - Extremities (USA, Europe).zip",
+      "size": "234230070",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20II%20Netpack%20I%20-%20Extremities%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Quake III - Arena (USA, Europe) (Rerelease).zip",
+      "size": "576815648",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20III%20-%20Arena%20%28USA%2C%20Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Quake III - Arena (USA, Europe).zip",
+      "size": "603448665",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20III%20-%20Arena%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Quake III - Team Arena (USA).zip",
+      "size": "527708651",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20III%20-%20Team%20Arena%20%28USA%29.zip"
+    },
+    {
+      "name": " /Quake III - Team Arena (USA, Europe) (Rerelease).zip",
+      "size": "516498801",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20III%20-%20Team%20Arena%20%28USA%2C%20Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Quake Mission Pack No. 1 - Scourge of Armagon (USA).zip",
+      "size": "284840690",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20Mission%20Pack%20No.%201%20-%20Scourge%20of%20Armagon%20%28USA%29.zip"
+    },
+    {
+      "name": " /Quake Mission Pack No. 2 - Dissolution of Eternity (USA).zip",
+      "size": "296808497",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20Mission%20Pack%20No.%202%20-%20Dissolution%20of%20Eternity%20%28USA%29.zip"
+    },
+    {
+      "name": " /Quake Mission Packs - No. 1 - Scourge of Armagon & No. 2 - Dissolution of Eternity (USA).zip",
+      "size": "339445094",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Quake%20Mission%20Packs%20-%20No.%201%20-%20Scourge%20of%20Armagon%20%26%20No.%202%20-%20Dissolution%20of%20Eternity%20%28USA%29.zip"
+    },
+    {
+      "name": " /Rally Championship Xtreme (Europe).zip",
+      "size": "609368135",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rally%20Championship%20Xtreme%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Rally Championship Xtreme (Poland) (Rerelease).zip",
+      "size": "623402884",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rally%20Championship%20Xtreme%20%28Poland%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rayman 2 - The Great Escape (Europe, Australia) (En,Fr,De,Es,It) (20000322).zip",
+      "size": "674275455",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%202%20-%20The%20Great%20Escape%20%28Europe%2C%20Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%2820000322%29.zip"
+    },
+    {
+      "name": " /Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "674264672",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%202%20-%20The%20Great%20Escape%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rayman 2 - The Great Escape (USA, Brazil) (En,Fr,De,Es,It).zip",
+      "size": "655494809",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%202%20-%20The%20Great%20Escape%20%28USA%2C%20Brazil%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Rayman 3 - Hoodlum Havoc (Europe) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "1467136230",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%203%20-%20Hoodlum%20Havoc%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "1445631271",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%203%20-%20Hoodlum%20Havoc%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rayman Arena (USA) (En,Fr,Es) (Disc 1) (Rerelease).zip",
+      "size": "730473149",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%20Arena%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Disc%201%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rayman Arena (USA) (En,Fr,Es) (Disc 2) (Rerelease).zip",
+      "size": "378027112",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%20Arena%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Disc%202%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rayman M (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Disc 1) (Rerelease).zip",
+      "size": "529160503",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%20M%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29%20%28Disc%201%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rayman M (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Disc 2) (Rerelease).zip",
+      "size": "621278333",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rayman%20M%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29%20%28Disc%202%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Re-Volt (USA) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "577854690",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Re-Volt%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Re-Volt (USA) (En,Fr,De,Es,It).zip",
+      "size": "569859500",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Re-Volt%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Red Faction (USA) (Disc 1).zip",
+      "size": "616241851",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Red%20Faction%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Red Faction (World) (Disc 2) (Multiplayer Disc).zip",
+      "size": "404238441",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Red%20Faction%20%28World%29%20%28Disc%202%29%20%28Multiplayer%20Disc%29.zip"
+    },
+    {
+      "name": " /Redneck Rampage - Family Reunion (USA) (Disc 1).zip",
+      "size": "498422645",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Redneck%20Rampage%20-%20Family%20Reunion%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Redneck Rampage - Family Reunion (USA) (Disc 2).zip",
+      "size": "390422651",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Redneck%20Rampage%20-%20Family%20Reunion%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Resident Evil (USA).zip",
+      "size": "561649571",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Resident%20Evil%20%28USA%29.zip"
+    },
+    {
+      "name": " /Return to Castle Wolfenstein (USA, Europe) (Disc 1) (The Platinum Edition).zip",
+      "size": "735351175",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Return%20to%20Castle%20Wolfenstein%20%28USA%2C%20Europe%29%20%28Disc%201%29%20%28The%20Platinum%20Edition%29.zip"
+    },
+    {
+      "name": " /Return to Castle Wolfenstein (USA, Europe) (Disc 2) (The Platinum Edition).zip",
+      "size": "512150942",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Return%20to%20Castle%20Wolfenstein%20%28USA%2C%20Europe%29%20%28Disc%202%29%20%28The%20Platinum%20Edition%29.zip"
+    },
+    {
+      "name": " /Rise of the Triad - Dark War (USA) (Site License) (v1.3).zip",
+      "size": "65381597",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rise%20of%20the%20Triad%20-%20Dark%20War%20%28USA%29%20%28Site%20License%29%20%28v1.3%29.zip"
+    },
+    {
+      "name": " /Rise of the Triad - Dark War (USA, Europe) (Rev 1).zip",
+      "size": "63839790",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rise%20of%20the%20Triad%20-%20Dark%20War%20%28USA%2C%20Europe%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Rise of the Triad - The HUNT Begins (USA).zip",
+      "size": "9404576",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rise%20of%20the%20Triad%20-%20The%20HUNT%20Begins%20%28USA%29.zip"
+    },
+    {
+      "name": " /Road & Track Presents - The Need for Speed (USA) (En,De).zip",
+      "size": "557134022",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Road%20%26%20Track%20Presents%20-%20The%20Need%20for%20Speed%20%28USA%29%20%28En%2CDe%29.zip"
+    },
+    {
+      "name": " /Road & Track Presents - The Need for Speed - Special Edition (Europe) (En,De).zip",
+      "size": "466497291",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Road%20%26%20Track%20Presents%20-%20The%20Need%20for%20Speed%20-%20Special%20Edition%20%28Europe%29%20%28En%2CDe%29.zip"
+    },
+    {
+      "name": " /Road & Track Presents - The Need for Speed SE (USA) (En,De) (Rerelease).zip",
+      "size": "481135650",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Road%20%26%20Track%20Presents%20-%20The%20Need%20for%20Speed%20SE%20%28USA%29%20%28En%2CDe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rollcage (Europe) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "631395372",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rollcage%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Rollcage (USA) (En,Fr,De,Es,It).zip",
+      "size": "631993123",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rollcage%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Rollcage Stage II (USA) (En,Fr,De,Es,It).zip",
+      "size": "772862874",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rollcage%20Stage%20II%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /RollerCoaster Tycoon 2 - Triple Thrill Pack (USA).zip",
+      "size": "714188048",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/RollerCoaster%20Tycoon%202%20-%20Triple%20Thrill%20Pack%20%28USA%29.zip"
+    },
+    {
+      "name": " /RollerCoaster Tycoon 3 Platinum! (USA).zip",
+      "size": "797846305",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/RollerCoaster%20Tycoon%203%20Platinum%21%20%28USA%29.zip"
+    },
+    {
+      "name": " /RollerCoaster Tycoon Deluxe (USA).zip",
+      "size": "515327186",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/RollerCoaster%20Tycoon%20Deluxe%20%28USA%29.zip"
+    },
+    {
+      "name": " /RollerCoaster World (Europe) (20020621).zip",
+      "size": "150164672",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/RollerCoaster%20World%20%28Europe%29%20%2820020621%29.zip"
+    },
+    {
+      "name": " /Rune Gold (USA) (Disc 1).zip",
+      "size": "608413490",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rune%20Gold%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Rune Gold (USA) (Disc 2).zip",
+      "size": "587693583",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Rune%20Gold%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /SWAT 3 - Close Quarters Battle (USA) (Play CD) (Tactical Game of the Year Edition).zip",
+      "size": "667833134",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SWAT%203%20-%20Close%20Quarters%20Battle%20%28USA%29%20%28Play%20CD%29%20%28Tactical%20Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /SWAT 3 - Close Quarters Battle (USA) (Tactics CD) (Tactical Game of the Year Edition).zip",
+      "size": "632732311",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SWAT%203%20-%20Close%20Quarters%20Battle%20%28USA%29%20%28Tactics%20CD%29%20%28Tactical%20Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /SWAT 4 (Italy) (Disc 1) (Gold Edition) (Covermount).zip",
+      "size": "761496037",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SWAT%204%20%28Italy%29%20%28Disc%201%29%20%28Gold%20Edition%29%20%28Covermount%29.zip"
+    },
+    {
+      "name": " /SWAT 4 (Italy) (Disc 2) (Gold Edition) (Covermount).zip",
+      "size": "458146479",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SWAT%204%20%28Italy%29%20%28Disc%202%29%20%28Gold%20Edition%29%20%28Covermount%29.zip"
+    },
+    {
+      "name": " /SWAT 4 - The Stetchkov Syndicate (Italy) (Covermount).zip",
+      "size": "684211226",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SWAT%204%20-%20The%20Stetchkov%20Syndicate%20%28Italy%29%20%28Covermount%29.zip"
+    },
+    {
+      "name": " /Sacrifice (USA, Europe) (MSI OEM).zip",
+      "size": "766987127",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sacrifice%20%28USA%2C%20Europe%29%20%28MSI%20OEM%29.zip"
+    },
+    {
+      "name": " /Scarface - The World Is Yours (Europe) (Rerelease).zip",
+      "size": "2449622147",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Scarface%20-%20The%20World%20Is%20Yours%20%28Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Scarface - The World Is Yours (USA).zip",
+      "size": "2449622063",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Scarface%20-%20The%20World%20Is%20Yours%20%28USA%29.zip"
+    },
+    {
+      "name": " /Screamer (Europe) (Rerelease).zip",
+      "size": "395040837",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Screamer%20%28Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Screamer (Europe) (Rev 1).zip",
+      "size": "382718889",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Screamer%20%28Europe%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Screamer (USA).zip",
+      "size": "382736976",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Screamer%20%28USA%29.zip"
+    },
+    {
+      "name": " /Screamer 2 (Europe) (Rerelease).zip",
+      "size": "528081628",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Screamer%202%20%28Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Screamer 2 (USA).zip",
+      "size": "528092619",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Screamer%202%20%28USA%29.zip"
+    },
+    {
+      "name": " /Screamer Rally (Europe).zip",
+      "size": "489840026",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Screamer%20Rally%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Sega Rally (Europe, Australia).zip",
+      "size": "3502051388",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Rally%20%28Europe%2C%20Australia%29.zip"
+    },
+    {
+      "name": " /Sega Rally 2 (Europe) (Disc 1) (Install Disc).zip",
+      "size": "454306005",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Rally%202%20%28Europe%29%20%28Disc%201%29%20%28Install%20Disc%29.zip"
+    },
+    {
+      "name": " /Sega Rally 2 (Europe) (Disc 2) (Play Disc).zip",
+      "size": "588817543",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Rally%202%20%28Europe%29%20%28Disc%202%29%20%28Play%20Disc%29.zip"
+    },
+    {
+      "name": " /Sega Rally 2 (USA) (Disc 1).zip",
+      "size": "434851319",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Rally%202%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Sega Rally 2 (USA) (Disc 2).zip",
+      "size": "588865973",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Rally%202%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Sega Rally Championship PC (Europe) (Rerelease).zip",
+      "size": "602631094",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Rally%20Championship%20PC%20%28Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sega Rally Championship PC (Europe) (v2.11).zip",
+      "size": "554604564",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Rally%20Championship%20PC%20%28Europe%29%20%28v2.11%29.zip"
+    },
+    {
+      "name": " /Sega Touring Car Championship (Europe) (Rerelease).zip",
+      "size": "649994512",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Touring%20Car%20Championship%20%28Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sega Touring Car Championship (Europe).zip",
+      "size": "597794338",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Touring%20Car%20Championship%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Sega Touring Car Championship (USA).zip",
+      "size": "597812188",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sega%20Touring%20Car%20Championship%20%28USA%29.zip"
+    },
+    {
+      "name": " /Serious Sam - The First Encounter (Europe) (En,De,Es,It) (Gold Edition).zip",
+      "size": "521377869",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Serious%20Sam%20-%20The%20First%20Encounter%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29%20%28Gold%20Edition%29.zip"
+    },
+    {
+      "name": " /Serious Sam - The First Encounter (USA).zip",
+      "size": "493496847",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Serious%20Sam%20-%20The%20First%20Encounter%20%28USA%29.zip"
+    },
+    {
+      "name": " /Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition).zip",
+      "size": "687866427",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Serious%20Sam%20-%20The%20Second%20Encounter%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Gold%20Edition%29.zip"
+    },
+    {
+      "name": " /Serious Sam - The Second Encounter (USA).zip",
+      "size": "581363316",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Serious%20Sam%20-%20The%20Second%20Encounter%20%28USA%29.zip"
+    },
+    {
+      "name": " /Serious Sam II (Europe) (En,Fr,De,It).zip",
+      "size": "2671291470",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Serious%20Sam%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.zip"
+    },
+    {
+      "name": " /Shrak (USA) (v2.0).zip",
+      "size": "433790978",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Shrak%20%28USA%29%20%28v2.0%29.zip"
+    },
+    {
+      "name": " /Shrak (USA).zip",
+      "size": "381729126",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Shrak%20%28USA%29.zip"
+    },
+    {
+      "name": " /SiN (USA) (Rerelease).zip",
+      "size": "491379747",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SiN%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /SiN (USA) (v1.01).zip",
+      "size": "558838444",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SiN%20%28USA%29%20%28v1.01%29.zip"
+    },
+    {
+      "name": " /SiN (USA).zip",
+      "size": "557208087",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SiN%20%28USA%29.zip"
+    },
+    {
+      "name": " /SiN Mission Pack - Wages of SiN (USA).zip",
+      "size": "220019130",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/SiN%20Mission%20Pack%20-%20Wages%20of%20SiN%20%28USA%29.zip"
+    },
+    {
+      "name": " /Sid Meier's Civilization IV (Europe) (En,Fr,De,Es,It).zip",
+      "size": "1405004850",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sid%20Meier%27s%20Civilization%20IV%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Sid Meier's Civilization IV - Beyond the Sword (USA) (En,Fr,De,Es,It) (Disc 1).zip",
+      "size": "783169052",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sid%20Meier%27s%20Civilization%20IV%20-%20Beyond%20the%20Sword%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Sid Meier's Civilization IV - Beyond the Sword (USA) (En,Fr,De,Es,It) (Disc 2).zip",
+      "size": "662528723",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sid%20Meier%27s%20Civilization%20IV%20-%20Beyond%20the%20Sword%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Sid Meier's Civilization IV - Colonization (USA) (En,Fr,De,Es,It).zip",
+      "size": "776854817",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sid%20Meier%27s%20Civilization%20IV%20-%20Colonization%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Sid Meier's Civilization IV - Warlords (USA) (En,Fr,De,Es,It).zip",
+      "size": "545370634",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sid%20Meier%27s%20Civilization%20IV%20-%20Warlords%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Simpsons, The - Hit & Run (Europe) (Disc 1) (Rerelease).zip",
+      "size": "636162236",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Simpsons%2C%20The%20-%20Hit%20%26%20Run%20%28Europe%29%20%28Disc%201%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Simpsons, The - Hit & Run (Europe) (Disc 2) (Rerelease).zip",
+      "size": "740127917",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Simpsons%2C%20The%20-%20Hit%20%26%20Run%20%28Europe%29%20%28Disc%202%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Simpsons, The - Hit & Run (Europe) (Disc 3) (Rerelease).zip",
+      "size": "605921083",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Simpsons%2C%20The%20-%20Hit%20%26%20Run%20%28Europe%29%20%28Disc%203%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Singularity (USA) (En,Fr,Es,It).zip",
+      "size": "7082447104",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Singularity%20%28USA%29%20%28En%2CFr%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /So You Wanna Be a Redneck (USA).zip",
+      "size": "2856105",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/So%20You%20Wanna%20Be%20a%20Redneck%20%28USA%29.zip"
+    },
+    {
+      "name": " /Soldier of Fortune (USA, Europe) (En,Fr) (Platinum Edition).zip",
+      "size": "742344408",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Soldier%20of%20Fortune%20%28USA%2C%20Europe%29%20%28En%2CFr%29%20%28Platinum%20Edition%29.zip"
+    },
+    {
+      "name": " /Soldier of Fortune - Payback (USA, Europe).zip",
+      "size": "3032631242",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Soldier%20of%20Fortune%20-%20Payback%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Soldier of Fortune II - Double Helix (USA) (En,Fr,De,Es,It) (Disc 1).zip",
+      "size": "690205447",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Soldier%20of%20Fortune%20II%20-%20Double%20Helix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Soldier of Fortune II - Double Helix (USA) (En,Fr,De,Es,It) (Disc 2).zip",
+      "size": "774524515",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Soldier%20of%20Fortune%20II%20-%20Double%20Helix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Soldier of Fortune II - Double Helix (USA, Europe) (En,Fr,De,Es,It) (Disc 1) (Gold Edition).zip",
+      "size": "658438988",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Soldier%20of%20Fortune%20II%20-%20Double%20Helix%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29%20%28Gold%20Edition%29.zip"
+    },
+    {
+      "name": " /Soldier of Fortune II - Double Helix (USA, Europe) (En,Fr,De,Es,It) (Disc 2) (Gold Edition).zip",
+      "size": "774528720",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Soldier%20of%20Fortune%20II%20-%20Double%20Helix%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29%20%28Gold%20Edition%29.zip"
+    },
+    {
+      "name": " /Sonic & All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It).zip",
+      "size": "4496240359",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20%26%20All-Stars%20Racing%20Transformed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Sonic & Knuckles Collection (Europe).zip",
+      "size": "241019311",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20%26%20Knuckles%20Collection%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Sonic & Knuckles Collection (USA) (Rerelease).zip",
+      "size": "292588317",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20%26%20Knuckles%20Collection%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sonic & Knuckles Collection (USA).zip",
+      "size": "241004105",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20%26%20Knuckles%20Collection%20%28USA%29.zip"
+    },
+    {
+      "name": " /Sonic & Sega All-Stars Racing (Europe) (En,Fr,De,Es,It).zip",
+      "size": "4461395509",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20%26%20Sega%20All-Stars%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Sonic 3D - Flickies' Island (Europe) (Xplosiv).zip",
+      "size": "622859793",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%203D%20-%20Flickies%27%20Island%20%28Europe%29%20%28Xplosiv%29.zip"
+    },
+    {
+      "name": " /Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es) (Disc 1) (Rerelease).zip",
+      "size": "627797502",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Adventure%20DX%20-%20Director%27s%20Cut%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%29%20%28Disc%201%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es) (Disc 2) (Rerelease).zip",
+      "size": "650926940",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Adventure%20DX%20-%20Director%27s%20Cut%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%29%20%28Disc%202%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sonic Adventure DX - Director's Cut (USA) (Disc 1).zip",
+      "size": "555427739",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Adventure%20DX%20-%20Director%27s%20Cut%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Sonic Adventure DX - Director's Cut (USA) (Disc 2).zip",
+      "size": "654341479",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Adventure%20DX%20-%20Director%27s%20Cut%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Sonic CD (Europe).zip",
+      "size": "644954157",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20CD%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Sonic CD (USA) (OEM) (v1.01).zip",
+      "size": "664859005",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20CD%20%28USA%29%20%28OEM%29%20%28v1.01%29.zip"
+    },
+    {
+      "name": " /Sonic CD (USA) (Rerelease).zip",
+      "size": "659706129",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20CD%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sonic CD (USA).zip",
+      "size": "642457280",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20CD%20%28USA%29.zip"
+    },
+    {
+      "name": " /Sonic Heroes (Europe) (En,Fr,De,Es,It) (Disc 1).zip",
+      "size": "553065652",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Sonic Heroes (Europe) (En,Fr,De,Es,It) (Disc 2).zip",
+      "size": "770140913",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Sonic Heroes (Europe) (En,Ja,Fr,De,Es,It,Ko) (Disc 1) (Rerelease).zip",
+      "size": "573149320",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Heroes%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28Disc%201%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sonic Heroes (Europe) (En,Ja,Fr,De,Es,It,Ko) (Disc 2) (Rerelease).zip",
+      "size": "753397618",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Heroes%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28Disc%202%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Sonic Heroes (USA) (En,Fr,De,Es,It) (Disc 1).zip",
+      "size": "559780609",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Sonic Heroes (USA) (En,Fr,De,Es,It) (Disc 2).zip",
+      "size": "770306795",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Sonic Mega Collection Plus (Europe) (En,Fr,De,Es,It) (Rerelease) (20070301).zip",
+      "size": "3244155864",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Mega%20Collection%20Plus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29%20%2820070301%29.zip"
+    },
+    {
+      "name": " /Sonic Mega Collection Plus (Europe) (En,Fr,De,Es,It) (Rerelease) (20090708).zip",
+      "size": "3192777632",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Mega%20Collection%20Plus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29%20%2820090708%29.zip"
+    },
+    {
+      "name": " /Sonic Mega Collection Plus (USA, Europe) (En,Fr,De,Es,It).zip",
+      "size": "3214742961",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Mega%20Collection%20Plus%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Sonic R (Australia) (En,Fr,De,Es,It) (2004).zip",
+      "size": "709290812",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20R%20%28Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%282004%29.zip"
+    },
+    {
+      "name": " /Sonic R (Europe).zip",
+      "size": "600686625",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20R%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Sonic R (USA) (Rerelease) (19990928).zip",
+      "size": "605113911",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20R%20%28USA%29%20%28Rerelease%29%20%2819990928%29.zip"
+    },
+    {
+      "name": " /Sonic R (USA).zip",
+      "size": "600560748",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20R%20%28USA%29.zip"
+    },
+    {
+      "name": " /Sonic Riders (Europe) (En,Ja,Fr,De,Es,It) (Rerelease) (20090708).zip",
+      "size": "1969431053",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Riders%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29%20%2820090708%29.zip"
+    },
+    {
+      "name": " /Sonic Riders (Europe) (En,Ja,Fr,De,Es,It).zip",
+      "size": "1951684968",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%20Riders%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Sonic's Schoolhouse (USA) (Rerelease).zip",
+      "size": "433375195",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sonic%27s%20Schoolhouse%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Spear of Destiny (USA) (19950207).zip",
+      "size": "2154848",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Spear%20of%20Destiny%20%28USA%29%20%2819950207%29.zip"
+    },
+    {
+      "name": " /Spear of Destiny (USA).zip",
+      "size": "2135645",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Spear%20of%20Destiny%20%28USA%29.zip"
+    },
+    {
+      "name": " /Spear of Destiny - Super CD Pack (USA).zip",
+      "size": "4930870",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Spear%20of%20Destiny%20-%20Super%20CD%20Pack%20%28USA%29.zip"
+    },
+    {
+      "name": " /Speed Busters - American Highways (USA).zip",
+      "size": "663941108",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Speed%20Busters%20-%20American%20Highways%20%28USA%29.zip"
+    },
+    {
+      "name": " /Spider-Man (Europe).zip",
+      "size": "563582622",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Spider-Man%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Split-Second (USA, Europe) (En,Fr,De,Es,It).zip",
+      "size": "7317233822",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Split-Second%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Star Trek - Voyager - Elite Force (USA) (En,Fr,De).zip",
+      "size": "784228402",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Trek%20-%20Voyager%20-%20Elite%20Force%20%28USA%29%20%28En%2CFr%2CDe%29.zip"
+    },
+    {
+      "name": " /Star Trek - Voyager - Elite Force (USA) (Rerelease).zip",
+      "size": "780071710",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Trek%20-%20Voyager%20-%20Elite%20Force%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Star Trek - Voyager - Elite Force - Expansion Pack (USA) (En,Fr,De).zip",
+      "size": "350182829",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Trek%20-%20Voyager%20-%20Elite%20Force%20-%20Expansion%20Pack%20%28USA%29%20%28En%2CFr%2CDe%29.zip"
+    },
+    {
+      "name": " /Star Wars - Battlefront (USA) (Rerelease) (20070827).zip",
+      "size": "2170887888",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Battlefront%20%28USA%29%20%28Rerelease%29%20%2820070827%29.zip"
+    },
+    {
+      "name": " /Star Wars - Battlefront (USA) (Rerelease) (20100914).zip",
+      "size": "2219021901",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Battlefront%20%28USA%29%20%28Rerelease%29%20%2820100914%29.zip"
+    },
+    {
+      "name": " /Star Wars - Battlefront II (USA) (Rerelease) (20110107).zip",
+      "size": "3355142044",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Battlefront%20II%20%28USA%29%20%28Rerelease%29%20%2820110107%29.zip"
+    },
+    {
+      "name": " /Star Wars - Battlefront II (USA) (Rerelease).zip",
+      "size": "3310428976",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Battlefront%20II%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Star Wars - Dark Forces (USA) (Rerelease) (19980519).zip",
+      "size": "187076063",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Dark%20Forces%20%28USA%29%20%28Rerelease%29%20%2819980519%29.zip"
+    },
+    {
+      "name": " /Star Wars - Dark Forces (USA, Europe).zip",
+      "size": "190845627",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Dark%20Forces%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Star Wars - Empire at War - Gold Pack (USA).zip",
+      "size": "3009950554",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Empire%20at%20War%20-%20Gold%20Pack%20%28USA%29.zip"
+    },
+    {
+      "name": " /Star Wars - Episode I - Racer (USA, Europe).zip",
+      "size": "550474594",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Episode%20I%20-%20Racer%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Star Wars - Force Commander (USA, Europe) (Disc 1).zip",
+      "size": "457833796",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Force%20Commander%20%28USA%2C%20Europe%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Star Wars - Force Commander (USA, Europe) (Disc 2).zip",
+      "size": "697833498",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Force%20Commander%20%28USA%2C%20Europe%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Star Wars - Galactic Battlegrounds (USA) (Disc 1) (Install).zip",
+      "size": "490962449",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Galactic%20Battlegrounds%20%28USA%29%20%28Disc%201%29%20%28Install%29.zip"
+    },
+    {
+      "name": " /Star Wars - Galactic Battlegrounds (USA) (Disc 2) (Play).zip",
+      "size": "385626590",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Galactic%20Battlegrounds%20%28USA%29%20%28Disc%202%29%20%28Play%29.zip"
+    },
+    {
+      "name": " /Star Wars - Galactic Battlegrounds - Clone Campaigns (USA).zip",
+      "size": "698171455",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Galactic%20Battlegrounds%20-%20Clone%20Campaigns%20%28USA%29.zip"
+    },
+    {
+      "name": " /Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 1) (Rerelease) (20050627).zip",
+      "size": "691150077",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Jedi%20Knight%20-%20Jedi%20Academy%20%28USA%29%20%28Disc%201%29%20%28Rerelease%29%20%2820050627%29.zip"
+    },
+    {
+      "name": " /Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 1).zip",
+      "size": "691434819",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Jedi%20Knight%20-%20Jedi%20Academy%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 2) (Rerelease) (20050627).zip",
+      "size": "758084971",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Jedi%20Knight%20-%20Jedi%20Academy%20%28USA%29%20%28Disc%202%29%20%28Rerelease%29%20%2820050627%29.zip"
+    },
+    {
+      "name": " /Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 2).zip",
+      "size": "747598898",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Jedi%20Knight%20-%20Jedi%20Academy%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Star Wars - Jedi Knight II - Jedi Outcast (USA) (En,Fr,De).zip",
+      "size": "748827375",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Jedi%20Knight%20II%20-%20Jedi%20Outcast%20%28USA%29%20%28En%2CFr%2CDe%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic (USA) (Disc 1) (Play Disc).zip",
+      "size": "773863387",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20%28USA%29%20%28Disc%201%29%20%28Play%20Disc%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic (USA) (Disc 2).zip",
+      "size": "780951823",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic (USA) (Disc 3).zip",
+      "size": "781052697",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic (USA) (Disc 4).zip",
+      "size": "575992118",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20%28USA%29%20%28Disc%204%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 1) (Play Disc) (Rerelease).zip",
+      "size": "750502635",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords%20%28USA%29%20%28Disc%201%29%20%28Play%20Disc%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 2).zip",
+      "size": "783247978",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 3).zip",
+      "size": "783069152",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 4).zip",
+      "size": "689058659",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords%20%28USA%29%20%28Disc%204%29.zip"
+    },
+    {
+      "name": " /Star Wars - Rebel Assault (USA, Europe) (v1.7).zip",
+      "size": "295971671",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Rebel%20Assault%20%28USA%2C%20Europe%29%20%28v1.7%29.zip"
+    },
+    {
+      "name": " /Star Wars - Republic Commando (Europe) (En,Es,It) (Disc 1) (Play Disc).zip",
+      "size": "799378964",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Republic%20Commando%20%28Europe%29%20%28En%2CEs%2CIt%29%20%28Disc%201%29%20%28Play%20Disc%29.zip"
+    },
+    {
+      "name": " /Star Wars - Republic Commando (Europe) (En,Es,It) (Disc 2).zip",
+      "size": "806968677",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Republic%20Commando%20%28Europe%29%20%28En%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Star Wars - Starfighter (USA).zip",
+      "size": "567570922",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20Starfighter%20%28USA%29.zip"
+    },
+    {
+      "name": " /Star Wars - TIE Fighter - Collector's CD-ROM (USA) (Rerelease) (19980720).zip",
+      "size": "472275922",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20TIE%20Fighter%20-%20Collector%27s%20CD-ROM%20%28USA%29%20%28Rerelease%29%20%2819980720%29.zip"
+    },
+    {
+      "name": " /Star Wars - X-Wing - Collector's CD-ROM (USA) (Rerelease) (Alt 2).zip",
+      "size": "471409337",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20X-Wing%20-%20Collector%27s%20CD-ROM%20%28USA%29%20%28Rerelease%29%20%28Alt%202%29.zip"
+    },
+    {
+      "name": " /Star Wars - X-Wing - Collector's CD-ROM (USA) (Rerelease) (Alt).zip",
+      "size": "471409360",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20X-Wing%20-%20Collector%27s%20CD-ROM%20%28USA%29%20%28Rerelease%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Star Wars - X-Wing - Collector's CD-ROM (USA).zip",
+      "size": "54646292",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Star%20Wars%20-%20X-Wing%20-%20Collector%27s%20CD-ROM%20%28USA%29.zip"
+    },
+    {
+      "name": " /StarCraft (USA) (Rerelease) (19990311).zip",
+      "size": "750501494",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/StarCraft%20%28USA%29%20%28Rerelease%29%20%2819990311%29.zip"
+    },
+    {
+      "name": " /StarCraft - Brood War (Expansion Set) (USA, Europe) (Rerelease) (19990801).zip",
+      "size": "734076607",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/StarCraft%20-%20Brood%20War%20%28Expansion%20Set%29%20%28USA%2C%20Europe%29%20%28Rerelease%29%20%2819990801%29.zip"
+    },
+    {
+      "name": " /Strife (USA).zip",
+      "size": "49657044",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Strife%20%28USA%29.zip"
+    },
+    {
+      "name": " /Sudeki (Europe) (En,Fr,De,Es,It).zip",
+      "size": "4035443552",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Sudeki%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Suffering, The (USA) (Bonus).zip",
+      "size": "601377164",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Suffering%2C%20The%20%28USA%29%20%28Bonus%29.zip"
+    },
+    {
+      "name": " /Suffering, The (USA) (Disc 1).zip",
+      "size": "765729948",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Suffering%2C%20The%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Suffering, The (USA) (Disc 2).zip",
+      "size": "768130412",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Suffering%2C%20The%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Suffering, The - Ties That Bind (USA) (Disc 1).zip",
+      "size": "782767572",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Suffering%2C%20The%20-%20Ties%20That%20Bind%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Suffering, The - Ties That Bind (USA) (Disc 2).zip",
+      "size": "779097202",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Suffering%2C%20The%20-%20Ties%20That%20Bind%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Suffering, The - Ties That Bind (USA) (Disc 3).zip",
+      "size": "240550617",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Suffering%2C%20The%20-%20Ties%20That%20Bind%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /System Shock 2 (USA).zip",
+      "size": "532364648",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/System%20Shock%202%20%28USA%29.zip"
+    },
+    {
+      "name": " /TMNT (USA) (En,Fr,De,Es,It).zip",
+      "size": "1859786699",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/TMNT%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /TOCA 2 Touring Cars (Europe) (En,Fr,De,Es,It).zip",
+      "size": "615125471",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/TOCA%202%20Touring%20Cars%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /TOCA Race Driver 2 (Europe) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "2831703123",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/TOCA%20Race%20Driver%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /TOCA Race Driver 3 (USA) (En,Fr,De,Es,It).zip",
+      "size": "3818513547",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/TOCA%20Race%20Driver%203%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Tempest 2000 (USA) (Rerelease).zip",
+      "size": "551717062",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tempest%202000%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Terminator 2029, The (USA).zip",
+      "size": "246692918",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Terminator%202029%2C%20The%20%28USA%29.zip"
+    },
+    {
+      "name": " /Terminator, The - Future Shock (Europe).zip",
+      "size": "40344556",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Terminator%2C%20The%20-%20Future%20Shock%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Test Drive 6 (Europe) (En,Fr,De,Es,It).zip",
+      "size": "450920399",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Test%20Drive%206%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Test Drive 6 (USA) (Rerelease).zip",
+      "size": "394667229",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Test%20Drive%206%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Test Drive Unlimited (Europe) (En,Fr,De,Es,It).zip",
+      "size": "3868181557",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Test%20Drive%20Unlimited%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Thief - Deadly Shadows (Netherlands) (En,Fr,De,It) (Rerelease).zip",
+      "size": "1902983354",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Thief%20-%20Deadly%20Shadows%20%28Netherlands%29%20%28En%2CFr%2CDe%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Thief - The Dark Project (Netherlands) (Rerelease).zip",
+      "size": "621620444",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Thief%20-%20The%20Dark%20Project%20%28Netherlands%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Thief II - The Metal Age (Netherlands) (Disc 1) (Rerelease) (20061025).zip",
+      "size": "609872247",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Thief%20II%20-%20The%20Metal%20Age%20%28Netherlands%29%20%28Disc%201%29%20%28Rerelease%29%20%2820061025%29.zip"
+    },
+    {
+      "name": " /Thief II - The Metal Age (Netherlands) (Disc 2) (Rerelease) (20061025).zip",
+      "size": "416032292",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Thief%20II%20-%20The%20Metal%20Age%20%28Netherlands%29%20%28Disc%202%29%20%28Rerelease%29%20%2820061025%29.zip"
+    },
+    {
+      "name": " /Thing, The (Europe).zip",
+      "size": "275131943",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Thing%2C%20The%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Titan Quest (USA).zip",
+      "size": "3119451239",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Titan%20Quest%20%28USA%29.zip"
+    },
+    {
+      "name": " /Titan Quest - Immortal Throne (USA).zip",
+      "size": "2255196525",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Titan%20Quest%20-%20Immortal%20Throne%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tom Clancy's Ghost Recon (Europe) (Rerelease) (20020115).zip",
+      "size": "704729678",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tom%20Clancy%27s%20Ghost%20Recon%20%28Europe%29%20%28Rerelease%29%20%2820020115%29.zip"
+    },
+    {
+      "name": " /Tom Clancy's Ghost Recon - Advanced Warfighter (Europe) (En,Fr,De,Es,It).zip",
+      "size": "2654698648",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tom%20Clancy%27s%20Ghost%20Recon%20-%20Advanced%20Warfighter%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Tom Clancy's Rainbow Six (USA).zip",
+      "size": "455398679",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tom%20Clancy%27s%20Rainbow%20Six%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tom Clancy's Rainbow Six - Rogue Spear - Black Thorn (USA).zip",
+      "size": "621006926",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20-%20Black%20Thorn%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tom Clancy's Rainbow Six - Rogue Spear Mission Pack - Urban Operations (USA).zip",
+      "size": "593397458",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20Mission%20Pack%20-%20Urban%20Operations%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tom Clancy's Rainbow Six - Vegas (Europe) (En,Fr,De,Es,It) (Rerelease).zip",
+      "size": "5187433093",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Vegas%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (USA).zip",
+      "size": "402367345",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tom%20Clancy%27s%20Rainbow%20Six%20Mission%20Pack%20-%20Eagle%20Watch%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tomb Raider (Europe) (Alt).zip",
+      "size": "289652563",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20%28Europe%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Tomb Raider - The Greatest Raids (Europe).zip",
+      "size": "1567339452",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20-%20The%20Greatest%20Raids%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Tomb Raider - The Last Revelation (USA) (Young Lara Images).zip",
+      "size": "399840909",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20-%20The%20Last%20Revelation%20%28USA%29%20%28Young%20Lara%20Images%29.zip"
+    },
+    {
+      "name": " /Tomb Raider - The Lost Artifact (USA).zip",
+      "size": "474095798",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20-%20The%20Lost%20Artifact%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tomb Raider - Underworld (Europe) (En,Fr,De,Es,It,Nl).zip",
+      "size": "7229976749",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20-%20Underworld%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.zip"
+    },
+    {
+      "name": " /Tomb Raider - Underworld (USA).zip",
+      "size": "7229976575",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20-%20Underworld%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tomb Raider - Unfinished Business (Europe).zip",
+      "size": "150001078",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20-%20Unfinished%20Business%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Tomb Raider Chronicles (USA) (Game Disc).zip",
+      "size": "556482528",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20Chronicles%20%28USA%29%20%28Game%20Disc%29.zip"
+    },
+    {
+      "name": " /Tomb Raider Chronicles (USA) (Level Editor Disc).zip",
+      "size": "218596945",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20Chronicles%20%28USA%29%20%28Level%20Editor%20Disc%29.zip"
+    },
+    {
+      "name": " /Tomb Raider Gold (USA) (Disc 1) (Alt).zip",
+      "size": "295367248",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Tomb Raider Gold (USA) (Disc 2).zip",
+      "size": "365839186",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Tomb Raider II - Golden Mask (USA).zip",
+      "size": "605869114",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20II%20-%20Golden%20Mask%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tomb Raider II - Starring Lara Croft (USA) (Rev 1).zip",
+      "size": "583029115",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20II%20-%20Starring%20Lara%20Croft%20%28USA%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Tomb Raider III - Adventures of Lara Croft (Europe) (Rev 1) (Alt).zip",
+      "size": "452658184",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20III%20-%20Adventures%20of%20Lara%20Croft%20%28Europe%29%20%28Rev%201%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Tomb Raider III - Adventures of Lara Croft (USA) (Rev 1).zip",
+      "size": "450435814",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20III%20-%20Adventures%20of%20Lara%20Croft%20%28USA%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /Tomb Raider III - Adventures of Lara Croft (USA).zip",
+      "size": "448390729",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20III%20-%20Adventures%20of%20Lara%20Croft%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tomb Raider III - The Lost Artifact (Europe).zip",
+      "size": "278123621",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tomb%20Raider%20III%20-%20The%20Lost%20Artifact%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Tonic Trouble (USA, Europe) (Rerelease).zip",
+      "size": "676541549",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tonic%20Trouble%20%28USA%2C%20Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Toolkit for Quake II (USA).zip",
+      "size": "57777826",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Toolkit%20for%20Quake%20II%20%28USA%29.zip"
+    },
+    {
+      "name": " /Total Overdose (Europe) (En,Fr,De,Es,It).zip",
+      "size": "1573820236",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Total%20Overdose%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Towers of Darkness - Heretic, Hexen & Beyond (USA).zip",
+      "size": "648665838",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Towers%20of%20Darkness%20-%20Heretic%2C%20Hexen%20%26%20Beyond%20%28USA%29.zip"
+    },
+    {
+      "name": " /Transformers - The Game (USA).zip",
+      "size": "3986490614",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Transformers%20-%20The%20Game%20%28USA%29.zip"
+    },
+    {
+      "name": " /Turok - Dinosaur Hunter (Europe).zip",
+      "size": "480458070",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Turok%20-%20Dinosaur%20Hunter%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).zip",
+      "size": "724194693",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Turok%202%20-%20Seeds%20of%20Evil%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Turok 2 - Seeds of Evil (USA).zip",
+      "size": "724070263",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Turok%202%20-%20Seeds%20of%20Evil%20%28USA%29.zip"
+    },
+    {
+      "name": " /Tyrian (Europe).zip",
+      "size": "18147532",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tyrian%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Tyrian (USA) (v2.0).zip",
+      "size": "17688105",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tyrian%20%28USA%29%20%28v2.0%29.zip"
+    },
+    {
+      "name": " /Tyrian (USA).zip",
+      "size": "12062954",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Tyrian%20%28USA%29.zip"
+    },
+    {
+      "name": " /Ultimate Spider-Man (USA) (Disc 1).zip",
+      "size": "513344500",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Ultimate%20Spider-Man%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /Ultimate Spider-Man (USA) (Disc 2).zip",
+      "size": "282402853",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Ultimate%20Spider-Man%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /Ultimate Spider-Man (USA) (Disc 3).zip",
+      "size": "564235916",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Ultimate%20Spider-Man%20%28USA%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /Unreal (Europe) (En,Fr,De,Es,It).zip",
+      "size": "336814837",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Unreal (USA).zip",
+      "size": "321024920",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20%28USA%29.zip"
+    },
+    {
+      "name": " /Unreal Gold (USA).zip",
+      "size": "467865568",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20Gold%20%28USA%29.zip"
+    },
+    {
+      "name": " /Unreal II - The Awakening (USA) (Install Disc 1) (Special Edition).zip",
+      "size": "774709927",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20II%20-%20The%20Awakening%20%28USA%29%20%28Install%20Disc%201%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Unreal II - The Awakening (USA) (Install Disc 2) (Special Edition).zip",
+      "size": "776305110",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20II%20-%20The%20Awakening%20%28USA%29%20%28Install%20Disc%202%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Unreal II - The Awakening (USA) (Play Disc) (Special Edition).zip",
+      "size": "308375718",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20II%20-%20The%20Awakening%20%28USA%29%20%28Play%20Disc%29%20%28Special%20Edition%29.zip"
+    },
+    {
+      "name": " /Unreal Mission Pack I - Return to Na Pali (USA).zip",
+      "size": "405148742",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20Mission%20Pack%20I%20-%20Return%20to%20Na%20Pali%20%28USA%29.zip"
+    },
+    {
+      "name": " /Unreal Tournament (USA) (Disc 1) (Game of the Year Edition) (Rerelease).zip",
+      "size": "563103654",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20Tournament%20%28USA%29%20%28Disc%201%29%20%28Game%20of%20the%20Year%20Edition%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Unreal Tournament (USA) (Disc 2) (Game of the Year Edition).zip",
+      "size": "503994473",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20Tournament%20%28USA%29%20%28Disc%202%29%20%28Game%20of%20the%20Year%20Edition%29.zip"
+    },
+    {
+      "name": " /Unreal Tournament 2004 (USA) (Editor's Choice and Mega Bonus Pack).zip",
+      "size": "2978714427",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Unreal%20Tournament%202004%20%28USA%29%20%28Editor%27s%20Choice%20and%20Mega%20Bonus%20Pack%29.zip"
+    },
+    {
+      "name": " /V-Rally - Multiplayer Championship Edition (Poland) (En,Fr,De) (Covermount).zip",
+      "size": "325640999",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/V-Rally%20-%20Multiplayer%20Championship%20Edition%20%28Poland%29%20%28En%2CFr%2CDe%29%20%28Covermount%29.zip"
+    },
+    {
+      "name": " /V-Rally 2 - Expert Edition (Europe) (En,Fr,De) (Rerelease) (20020802).zip",
+      "size": "794644589",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/V-Rally%202%20-%20Expert%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Rerelease%29%20%2820020802%29.zip"
+    },
+    {
+      "name": " /V-Rally 2 - Expert Edition (Europe) (En,Fr,De) (Rerelease).zip",
+      "size": "796676996",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/V-Rally%202%20-%20Expert%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Vampire - The Masquerade - Redemption (USA) (Disc 1) (Install).zip",
+      "size": "610105946",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Vampire%20-%20The%20Masquerade%20-%20Redemption%20%28USA%29%20%28Disc%201%29%20%28Install%29.zip"
+    },
+    {
+      "name": " /Vampire - The Masquerade - Redemption (USA, Japan) (Disc 2) (Play).zip",
+      "size": "557937518",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Vampire%20-%20The%20Masquerade%20-%20Redemption%20%28USA%2C%20Japan%29%20%28Disc%202%29%20%28Play%29.zip"
+    },
+    {
+      "name": " /Virtua Cop (Europe).zip",
+      "size": "479172977",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Cop%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Virtua Cop 2 (Europe).zip",
+      "size": "360699665",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Cop%202%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Virtua Cop 2 (Japan) (Rerelease).zip",
+      "size": "319993036",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Cop%202%20%28Japan%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter 2 (Europe) (Direct3D).zip",
+      "size": "444465737",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%202%20%28Europe%29%20%28Direct3D%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter 2 (Europe) (Rerelease) (20041021).zip",
+      "size": "413336792",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%202%20%28Europe%29%20%28Rerelease%29%20%2820041021%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter PC (Europe) (Rerelease) (20061122).zip",
+      "size": "568557384",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%20PC%20%28Europe%29%20%28Rerelease%29%20%2820061122%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter PC (Europe) (Rerelease).zip",
+      "size": "603282161",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%20PC%20%28Europe%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter PC (Europe) (v1.07).zip",
+      "size": "550554780",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%20PC%20%28Europe%29%20%28v1.07%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter PC (USA) (Rerelease).zip",
+      "size": "579123330",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%20PC%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter PC (USA).zip",
+      "size": "549850138",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%20PC%20%28USA%29.zip"
+    },
+    {
+      "name": " /Virtua Fighter Remix (USA) (OEM).zip",
+      "size": "538399752",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Fighter%20Remix%20%28USA%29%20%28OEM%29.zip"
+    },
+    {
+      "name": " /Virtua Tennis - Sega Professional Tennis (Europe).zip",
+      "size": "307779346",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Tennis%20-%20Sega%20Professional%20Tennis%20%28Europe%29.zip"
+    },
+    {
+      "name": " /Virtua Tennis 3 (Europe) (En,Fr,De,Es,It).zip",
+      "size": "2611990699",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtua%20Tennis%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /Virtual On - Cyber Troopers (Europe) (En,Fr,De,Es) (Rerelease).zip",
+      "size": "408517004",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtual%20On%20-%20Cyber%20Troopers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Virtual On - Cyber Troopers (USA) (OEM).zip",
+      "size": "352908274",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtual%20On%20-%20Cyber%20Troopers%20%28USA%29%20%28OEM%29.zip"
+    },
+    {
+      "name": " /Virtual On - Cyber Troopers (USA).zip",
+      "size": "356120319",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Virtual%20On%20-%20Cyber%20Troopers%20%28USA%29.zip"
+    },
+    {
+      "name": " /WWII GI (USA, Europe).zip",
+      "size": "648858983",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WWII%20GI%20%28USA%2C%20Europe%29.zip"
+    },
+    {
+      "name": " /Wanted - Weapons of Fate (USA, Canada) (En,Fr,De,Es,It).zip",
+      "size": "4020257010",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Wanted%20-%20Weapons%20of%20Fate%20%28USA%2C%20Canada%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /WarCraft - Orcs & Humans (USA) (Rerelease) (19961013) (Alt 2).zip",
+      "size": "451094406",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WarCraft%20-%20Orcs%20%26%20Humans%20%28USA%29%20%28Rerelease%29%20%2819961013%29%20%28Alt%202%29.zip"
+    },
+    {
+      "name": " /WarCraft - Orcs & Humans (USA) (Rerelease) (19961013) (Alt).zip",
+      "size": "451094235",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WarCraft%20-%20Orcs%20%26%20Humans%20%28USA%29%20%28Rerelease%29%20%2819961013%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /WarCraft - Orcs & Humans (USA) (Rerelease) (19961013).zip",
+      "size": "451094323",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WarCraft%20-%20Orcs%20%26%20Humans%20%28USA%29%20%28Rerelease%29%20%2819961013%29.zip"
+    },
+    {
+      "name": " /WarCraft - Orcs & Humans (USA) (Rerelease) (19961031) (Alt 3).zip",
+      "size": "451094389",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WarCraft%20-%20Orcs%20%26%20Humans%20%28USA%29%20%28Rerelease%29%20%2819961031%29%20%28Alt%203%29.zip"
+    },
+    {
+      "name": " /WarCraft III - Reign of Chaos (USA).zip",
+      "size": "730990906",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WarCraft%20III%20-%20Reign%20of%20Chaos%20%28USA%29.zip"
+    },
+    {
+      "name": " /WarCraft III - The Frozen Throne (Expansion Set) (USA) (Alt 2).zip",
+      "size": "557447418",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WarCraft%20III%20-%20The%20Frozen%20Throne%20%28Expansion%20Set%29%20%28USA%29%20%28Alt%202%29.zip"
+    },
+    {
+      "name": " /WarCraft III - The Frozen Throne (Expansion Set) (USA) (Alt).zip",
+      "size": "557447745",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/WarCraft%20III%20-%20The%20Frozen%20Throne%20%28Expansion%20Set%29%20%28USA%29%20%28Alt%29.zip"
+    },
+    {
+      "name": " /Warhammer 40,000 - Dawn of War - Dark Crusade (USA).zip",
+      "size": "3681112737",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Warhammer%2040%2C000%20-%20Dawn%20of%20War%20-%20Dark%20Crusade%20%28USA%29.zip"
+    },
+    {
+      "name": " /Warhammer 40,000 - Dawn of War - Gold Edition (USA).zip",
+      "size": "2217384717",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Warhammer%2040%2C000%20-%20Dawn%20of%20War%20-%20Gold%20Edition%20%28USA%29.zip"
+    },
+    {
+      "name": " /Whiplash (USA) (Rerelease).zip",
+      "size": "557025771",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Whiplash%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Will Rock (USA).zip",
+      "size": "551398904",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Will%20Rock%20%28USA%29.zip"
+    },
+    {
+      "name": " /Witchaven (USA).zip",
+      "size": "124657722",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Witchaven%20%28USA%29.zip"
+    },
+    {
+      "name": " /Witchaven II - Blood Vengeance (USA).zip",
+      "size": "213722746",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Witchaven%20II%20-%20Blood%20Vengeance%20%28USA%29.zip"
+    },
+    {
+      "name": " /Wolfenstein 3-D & Blake Stone - Aliens of Gold Companion CD-ROM, The (USA).zip",
+      "size": "17095593",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Wolfenstein%203-D%20%26%20Blake%20Stone%20-%20Aliens%20of%20Gold%20Companion%20CD-ROM%2C%20The%20%28USA%29.zip"
+    },
+    {
+      "name": " /Wolfenstein 3D & Blake Stone - Aliens of Gold Companion Edition (USA).zip",
+      "size": "17096150",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Wolfenstein%203D%20%26%20Blake%20Stone%20-%20Aliens%20of%20Gold%20Companion%20Edition%20%28USA%29.zip"
+    },
+    {
+      "name": " /Wolfenstein 3D (USA) (Rerelease).zip",
+      "size": "84612638",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Wolfenstein%203D%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Wolfenstein 3D (USA).zip",
+      "size": "21126411",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Wolfenstein%203D%20%28USA%29.zip"
+    },
+    {
+      "name": " /X-Men Origins - Wolverine - Uncaged Edition (USA) (En,Fr,Es,It).zip",
+      "size": "6661419536",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/X-Men%20Origins%20-%20Wolverine%20-%20Uncaged%20Edition%20%28USA%29%20%28En%2CFr%2CEs%2CIt%29.zip"
+    },
+    {
+      "name": " /XIII (Europe) (En,Fr,De,Es,It) (Disc 1).zip",
+      "size": "781070558",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/XIII%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": " /XIII (Europe) (En,Fr,De,Es,It) (Disc 2).zip",
+      "size": "710596722",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/XIII%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": " /XIII (Europe) (En,Fr,De,Es,It) (Disc 3).zip",
+      "size": "611120710",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/XIII%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%203%29.zip"
+    },
+    {
+      "name": " /XIII (Europe) (En,Fr,De,Es,It) (Disc 4).zip",
+      "size": "641170170",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/XIII%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%204%29.zip"
+    },
+    {
+      "name": " /XIII (Poland) (Rerelease).zip",
+      "size": "2335215421",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/XIII%20%28Poland%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /Zero Divide (USA) (Rerelease).zip",
+      "size": "220491030",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/Zero%20Divide%20%28USA%29%20%28Rerelease%29.zip"
+    },
+    {
+      "name": " /id Anthology (USA) (Disc 1) (Vintage).zip",
+      "size": "10289452",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/id%20Anthology%20%28USA%29%20%28Disc%201%29%20%28Vintage%29.zip"
+    },
+    {
+      "name": " /id Anthology (USA) (Disc 2) (Doom) (Rev 1).zip",
+      "size": "145657577",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/id%20Anthology%20%28USA%29%20%28Disc%202%29%20%28Doom%29%20%28Rev%201%29.zip"
+    },
+    {
+      "name": " /id Anthology (USA) (Disc 2) (Doom).zip",
+      "size": "144380815",
+      "download_url": "https://archive.org/download/pc_redump/PC%20Redump/id%20Anthology%20%28USA%29%20%28Disc%202%29%20%28Doom%29.zip"
+    }
+  ]
+}
