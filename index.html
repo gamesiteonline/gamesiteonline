@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>GAME SITE ONLINE</title>
+  <!-- FontAwesome for Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <!-- Firebase Scripts for Real-time Comments/Likes -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-database-compat.js"></script>
+</head>
+<body>
+
+  <!-- Fullscreen App Loader -->
+  <div id="app-loader" class="screen active">
+    <div class="pyramid-loader">
+      <div class="pyramid-wrapper">
+        <span class="side side1"></span><span class="side side2"></span>
+        <span class="side side3"></span><span class="side side4"></span>
+        <span class="shadow"></span>
+      </div>
+    </div>
+    <h2 style="margin-top:20px; color:var(--text); text-shadow: 0 0 10px var(--accent);">GAME SITE ONLINE</h2>
+  </div>
+
+  <!-- Top Header -->
+  <header>
+    <h1><i class="fa-solid fa-gamepad"></i> GAME SITE ONLINE</h1>
+  </header>
+
+  <!-- Main Content Area -->
+  <main>
+    <!-- HOME SCREEN -->
+    <div id="page-home" class="page active">
+      <h3 class="section-title">Trending Games</h3>
+      <!-- 3D Carousel Animation -->
+      <div class="spin-container">
+        <div class="spin-inner" style="--quantity: 10;">
+          <!-- Dynamically populated via JS, using placeholders for now -->
+          <div class="spin-card" style="--index: 0;--color-card: 142, 249, 252;"><div class="img" style="background-image:url('https://via.placeholder.com/100x150/000/fff?text=GTA+V')"></div></div>
+          <div class="spin-card" style="--index: 1;--color-card: 142, 252, 204;"><div class="img" style="background-image:url('https://via.placeholder.com/100x150/000/fff?text=FIFA')"></div></div>
+          <div class="spin-card" style="--index: 2;--color-card: 142, 252, 157;"><div class="img" style="background-image:url('https://via.placeholder.com/100x150/000/fff?text=GOW')"></div></div>
+          <div class="spin-card" style="--index: 3;--color-card: 215, 252, 142;"><div class="img"></div></div>
+          <div class="spin-card" style="--index: 4;--color-card: 252, 252, 142;"><div class="img"></div></div>
+          <div class="spin-card" style="--index: 5;--color-card: 252, 208, 142;"><div class="img"></div></div>
+          <div class="spin-card" style="--index: 6;--color-card: 252, 142, 142;"><div class="img"></div></div>
+          <div class="spin-card" style="--index: 7;--color-card: 252, 142, 239;"><div class="img"></div></div>
+          <div class="spin-card" style="--index: 8;--color-card: 204, 142, 252;"><div class="img"></div></div>
+          <div class="spin-card" style="--index: 9;--color-card: 142, 202, 252;"><div class="img"></div></div>
+        </div>
+      </div>
+
+      <div class="filter-buttons">
+        <button onclick="fetchCategory('pc')">PC</button>
+        <button onclick="fetchCategory('mobile')">Mobile</button>
+        <button onclick="fetchCategory('emulator')">Emulator</button>
+        <button onclick="fetchCategory('ppsspp')">PPSSPP</button>
+        <button onclick="fetchCategory('consoles')">PS2/PS3/PS4</button>
+        <button onclick="fetchCategory('special')" class="special-btn">★ Special Games</button>
+      </div>
+
+      <h3 class="section-title">All Games</h3>
+      <div id="game-grid" class="grid-container">
+        <!-- Game Cards Will Render Here -->
+      </div>
+    </div>
+
+    <!-- GAME DETAILS SCREEN -->
+    <div id="page-details" class="page">
+      <button class="back-btn" onclick="navigate('home')"><i class="fa-solid fa-arrow-left"></i> Back</button>
+      <div class="details-header" id="detail-header"></div>
+      
+      <div class="details-info" id="detail-info"></div>
+
+      <!-- Download Action Area -->
+      <div class="download-section" id="download-section">
+        <button id="prep-download-btn" onclick="startProgress()">Prepare Download</button>
+        <div class="loader-container" id="download-loader" style="display:none;">
+          <div class="pyramid-loader" style="transform: scale(0.5); height: 150px;">
+            <div class="pyramid-wrapper">
+              <span class="side side1"></span><span class="side side2"></span>
+              <span class="side side3"></span><span class="side side4"></span><span class="shadow"></span>
+            </div>
+          </div>
+          <p id="progress-text">Preparing... 0%</p>
+        </div>
+        <a id="actual-download-btn" class="hidden-btn" href="#" target="_blank" onclick="openInAppBrowser(this.href); return false;">Download Now</a>
+      </div>
+
+      <!-- Payment Section for Special Games -->
+      <div class="payment-section" id="payment-section" style="display:none;">
+        <h3><i class="fa-solid fa-lock"></i> Premium Game Access</h3>
+        <p>To download this game, please pay to unlock the link.</p>
+        <p><strong>Airtel Tanzania:</strong> 0781186225</p>
+        <p><strong>Vodafone Tanzania:</strong> +255796339436</p>
+        <input type="text" id="transaction-id" placeholder="Enter Transaction ID" />
+        <button onclick="verifyPayment()">Verify Payment</button>
+        <p id="payment-msg" style="color:var(--accent); font-size:12px;"></p>
+      </div>
+
+      <!-- Comments & Likes Area -->
+      <div class="social-engagement">
+        <button id="like-btn" onclick="toggleLike()"><i class="fa-solid fa-heart"></i> <span id="like-count">0</span> Likes</button>
+        <div class="comments-area">
+          <h4>Real-time Comments</h4>
+          <div id="comments-list"></div>
+          <input type="text" id="comment-input" placeholder="Add a comment...">
+          <button onclick="postComment()">Post</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- SUPPORT / FOLLOW SCREEN -->
+    <div id="page-support" class="page">
+      <h3 class="section-title">Support & Follow</h3>
+      
+      <!-- Provided Follow Card Animation -->
+      <div class="social-card">
+        <b></b>
+        <div class="social-content">
+          <p class="social-title">GAME SITE ONLINE<br><span>Follow Us Everywhere</span></p>
+          <ul class="sci">
+            <li><a href="#" onclick="openInAppBrowser('https://www.snapchat.com/add/gamesiteonline')"><i class="fa-brands fa-snapchat"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://linktr.ee/fahadgroyne')"><i class="fa-solid fa-link"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://pin.it/5aB39I8wy')"><i class="fa-brands fa-pinterest"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://www.threads.com/@d.e.m.o.x_11')"><i class="fa-brands fa-threads"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://t.me/Gamesiteonline')"><i class="fa-brands fa-telegram"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://whatsapp.com/channel/0029Vb7jjtZLo4hnTZRnqW1n')"><i class="fa-brands fa-whatsapp"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://www.youtube.com/@gamesiteonline')"><i class="fa-brands fa-youtube"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://www.reddit.com/u/fahadgroyne/s/JmyZL3pPYa')"><i class="fa-brands fa-reddit"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://www.instagram.com/games_site_online?igsh=cnBpc25tNXZtYW52')"><i class="fa-brands fa-instagram"></i></a></li>
+            <li><a href="#" onclick="openInAppBrowser('https://www.tiktok.com/@d.e.m.o.x_11')"><i class="fa-brands fa-tiktok"></i></a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="contact-links" style="margin-top: 30px; text-align:center;">
+        <button onclick="openInAppBrowser('https://wa.me/message/YOUR_LINK')"><i class="fa-brands fa-whatsapp"></i> WhatsApp Support</button>
+        <button onclick="openInAppBrowser('mailto:support@gamesiteonline.com')"><i class="fa-solid fa-envelope"></i> Email Us</button>
+      </div>
+    </div>
+
+    <!-- SETTINGS SCREEN -->
+    <div id="page-settings" class="page">
+      <h3 class="section-title">Settings</h3>
+      <div class="setting-item">
+        <label>App Theme</label>
+        <select id="theme-selector" onchange="changeTheme()">
+          <option value="dark">Dark Theme</option>
+          <option value="neon">Neon Cyberpunk</option>
+        </select>
+      </div>
+    </div>
+  </main>
+
+  <!-- Bottom Navigation -->
+  <nav class="bottom-nav">
+    <button onclick="navigate('home')"><i class="fa-solid fa-house"></i></button>
+    <button onclick="navigate('support')"><i class="fa-solid fa-users"></i></button>
+    <button onclick="navigate('settings')"><i class="fa-solid fa-gear"></i></button>
+  </nav>
+
+  <!-- In-App Browser Overlay -->
+  <div id="in-app-browser">
+    <div class="browser-header">
+      <span id="browser-title">External Link</span>
+      <button onclick="closeInAppBrowser()"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <iframe id="browser-frame" src=""></iframe>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=Orbitron:wght@500;700&display=swap');
+
+/* --- THEMES --- */
+:root {
+  --bg: #171717;
+  --panel-bg: #222;
+  --text: #fff;
+  --text-dim: #aaa;
+  --accent: #ff0058;
+  --accent-2: #03a9f4;
+  --font: 'Poppins', sans-serif;
+}
+
+[data-theme="neon"] {
+  --bg: #050505;
+  --panel-bg: #111;
+  --text: #0ff;
+  --text-dim: #0aa;
+  --accent: #39ff14;
+  --accent-2: #ff00ff;
+  --font: 'Orbitron', sans-serif;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  overflow-x: hidden;
+  padding-bottom: 70px; /* space for nav */
+  transition: background 0.5s, color 0.5s;
+}
+
+header {
+  text-align: center;
+  padding: 15px;
+  background: var(--panel-bg);
+  border-bottom: 2px solid var(--accent);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+
+.section-title { text-align: center; margin: 20px 0; color: var(--text); }
+
+/* Navigation */
+.bottom-nav {
+  position: fixed;
+  bottom: 0; width: 100%;
+  background: var(--panel-bg);
+  display: flex; justify-content: space-around;
+  padding: 10px 0;
+  border-top: 2px solid var(--accent);
+  z-index: 100;
+}
+.bottom-nav button {
+  background: none; border: none;
+  color: var(--text); font-size: 24px;
+  cursor: pointer; transition: 0.3s;
+}
+.bottom-nav button:hover { color: var(--accent); }
+
+/* Pages */
+.page, .screen { display: none; padding: 15px; }
+.page.active, .screen.active { display: block; animation: fadeIn 0.4s ease; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+/* --- 1. PYRAMID LOADER (From requested files) --- */
+.pyramid-loader {
+  position: relative; width: 150px; height: 150px;
+  display: block; transform-style: preserve-3d;
+  transform: rotateX(-20deg); margin: 0 auto;
+}
+.pyramid-wrapper {
+  position: relative; width: 100%; height: 100%;
+  transform-style: preserve-3d; animation: spin 4s linear infinite;
+}
+@keyframes spin { 100% { transform: rotateY(360deg); } }
+.pyramid-wrapper .side {
+  width: 70px; height: 70px; position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0; margin: auto;
+  transform-origin: center top;
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+.pyramid-wrapper .side1 { transform: rotateZ(-30deg) rotateY(90deg); background: linear-gradient(to bottom right, var(--accent-2), var(--accent)); }
+.pyramid-wrapper .side2 { transform: rotateZ(30deg) rotateY(90deg); background: linear-gradient(to bottom right, var(--accent-2), var(--accent)); }
+.pyramid-wrapper .side3 { transform: rotateX(30deg); background: linear-gradient(to bottom right, var(--accent-2), var(--accent)); }
+.pyramid-wrapper .side4 { transform: rotateX(-30deg); background: linear-gradient(to bottom right, var(--accent-2), var(--accent)); }
+.pyramid-wrapper .shadow {
+  width: 60px; height: 60px; background: var(--accent);
+  position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto;
+  transform: rotateX(90deg) translateZ(-40px); filter: blur(12px);
+}
+#app-loader { height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--bg); position: fixed; top:0; left:0; width:100%; z-index: 999; }
+
+/* --- 2. 3D CAROUSEL SLIDER (Slide Pic / Slide 2) --- */
+.spin-container {
+  width: 100%; height: 200px;
+  position: relative; text-align: center;
+  display: flex; align-items: center; justify-content: center;
+  overflow: hidden; margin-bottom: 20px;
+}
+.spin-inner {
+  --w: 100px; --h: 150px;
+  --translateZ: calc((var(--w) + var(--h)) + 0px);
+  --rotateX: -15deg; --perspective: 1000px;
+  position: absolute; width: var(--w); height: var(--h);
+  z-index: 2; transform-style: preserve-3d;
+  transform: perspective(var(--perspective));
+  animation: rotating 20s linear infinite;
+}
+@keyframes rotating {
+  from { transform: perspective(var(--perspective)) rotateX(var(--rotateX)) rotateY(0); }
+  to { transform: perspective(var(--perspective)) rotateX(var(--rotateX)) rotateY(1turn); }
+}
+.spin-card {
+  position: absolute; border: 2px solid rgba(var(--color-card));
+  border-radius: 12px; overflow: hidden; inset: 0;
+  transform: rotateY(calc((360deg / var(--quantity)) * var(--index))) translateZ(var(--translateZ));
+}
+.spin-card .img {
+  width: 100%; height: 100%; object-fit: cover; background-size: cover; background-position: center;
+  background-color: rgba(var(--color-card), 0.2);
+}
+
+/* Category Filters */
+.filter-buttons {
+  display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;
+}
+.filter-buttons button {
+  padding: 8px 15px; background: var(--panel-bg); color: var(--text);
+  border: 1px solid var(--accent-2); border-radius: 20px;
+  cursor: pointer; transition: 0.3s;
+}
+.filter-buttons button.special-btn { border-color: gold; color: gold; font-weight: bold;}
+.filter-buttons button:hover { background: var(--accent); color: #fff; }
+
+/* --- 3. GAME CARDS (Merged "3D Hover" & "Card 2 line aside") --- */
+.grid-container {
+  display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;
+  perspective: 500px; /* from 3D hover */
+}
+.game-card-wrapper {
+  perspective: 500px; display: inline-block;
+}
+.game-card {
+  width: 150px; height: 210px; background: #171717;
+  display: flex; justify-content: center; align-items: center;
+  overflow: hidden; position: relative;
+  box-shadow: 0px 0px 3px 1px #00000088;
+  border-radius: 8px; cursor: pointer;
+  
+  /* 3D Hover Props */
+  transform-style: preserve-3d;
+  will-change: transform; transition: transform .5s;
+}
+.game-card:hover {
+  transform: translateZ(10px) rotateX(15deg) rotateY(15deg);
+}
+.game-card .game-content {
+  border-radius: 5px; background: #171717;
+  width: 146px; height: 206px; z-index: 1; padding: 10px;
+  color: white; display: flex; flex-direction: column;
+  justify-content: center; align-items: center; text-align: center;
+  background-size: cover; background-position: center; position: relative;
+}
+/* Black overlay for text readability */
+.game-card .game-content::after {
+  content: ''; position: absolute; inset:0; background: rgba(0,0,0,0.6); z-index: -1;
+}
+.game-card .game-content::before {
+  opacity: 0; transition: opacity 300ms; content: " ";
+  display: block; background: white; width: 5px; height: 50px;
+  position: absolute; filter: blur(50px); overflow: hidden;
+}
+.game-card:hover .game-content::before { opacity: 1; }
+/* Rotating line effect */
+.game-card::before {
+  opacity: 0; content: " "; position: absolute; display: block;
+  width: 80px; height: 360px;
+  background: linear-gradient(var(--accent), var(--accent-2));
+  transition: opacity 300ms; animation: rotation_9018 8000ms infinite linear;
+  animation-play-state: paused;
+}
+.game-card:hover::before { opacity: 1; animation-play-state: running; }
+@keyframes rotation_9018 { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+/* Game Details Inner Text */
+.card-title {
+  font-weight: bold; font-size: 14px;
+  transform: translateZ(30px); transition: transform 0.5s; text-shadow: 1px 1px 0 #000;
+}
+.game-card:hover .card-title { transform: translateZ(50px); color: var(--accent); }
+
+/* --- 4. DETAILS PAGE & BUTTONS --- */
+.back-btn { padding: 10px 20px; background: var(--panel-bg); color:var(--text); border:1px solid var(--text-dim); border-radius: 5px; cursor: pointer; margin-bottom: 20px;}
+.details-info p { margin: 5px 0; color: var(--text-dim); }
+.details-info h2 { color: var(--accent-2); margin-bottom: 10px;}
+
+.download-section, .payment-section { margin-top: 20px; background: var(--panel-bg); padding: 15px; border-radius: 8px; text-align: center;}
+.download-section button, .payment-section button {
+  background: var(--accent); color: white; border: none;
+  padding: 12px 25px; font-size: 16px; border-radius: 25px; cursor: pointer; font-family: var(--font); width: 100%; font-weight: bold;
+}
+.hidden-btn { display: none; background: #00ca4e !important; text-decoration: none; padding: 12px 25px; color: white; border-radius: 25px; display: inline-block; width: 100%; font-weight: bold;}
+.payment-section input { width: 100%; padding: 10px; margin: 10px 0; background: var(--bg); border: 1px solid var(--accent); color: var(--text); border-radius: 5px;}
+
+/* Social Engagement */
+.social-engagement { margin-top: 20px; padding: 15px; background: var(--panel-bg); border-radius: 8px; }
+#like-btn { background: none; border: 1px solid var(--accent); color: var(--text); padding: 8px 15px; border-radius: 20px; cursor: pointer; }
+.comments-area { margin-top: 15px; }
+#comments-list { max-height: 150px; overflow-y: auto; margin-bottom: 10px; font-size: 13px;}
+.comment-item { border-bottom: 1px solid #333; padding: 5px 0; }
+.comments-area input { width: 70%; padding: 8px; background: var(--bg); border: 1px solid #444; color: var(--text); }
+.comments-area button { width: 25%; padding: 8px; background: var(--accent-2); border: none; color: white; cursor: pointer; }
+
+/* --- 5. SOCIAL FOLLOW ANIMATION (FOLLOW Card modified for many icons) --- */
+.social-card {
+  position: relative; width: 100%; max-width: 320px; height: 350px;
+  background: #f00; display: flex; justify-content: center; align-items: center;
+  margin: 0 auto; border-radius: 10px; overflow: hidden;
+}
+.social-card::before, .social-card::after {
+  content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+  background: linear-gradient(315deg, var(--accent-2), var(--accent));
+}
+.social-card::after { filter: blur(30px); }
+.social-card b { position: absolute; inset: 6px; background: rgba(0, 0, 0, 0.8); z-index: 2; border-radius: 8px;}
+.social-card .social-content {
+  position: absolute; z-index: 3; display: flex; flex-direction: column; align-items: center; width: 100%;
+}
+.social-content .social-title {
+  color: #fff; font-weight: bold; text-align: center; margin-bottom: 15px;
+}
+.social-content .sci {
+  display: flex; justify-content: center; align-items: center; gap: 10px;
+  flex-wrap: wrap; padding: 0 10px; list-style: none;
+}
+.sci li a {
+  text-decoration: none; color: rgba(255, 255, 255, 0.5); background: rgba(255, 255, 255, 0.1);
+  width: 40px; height: 40px; display: flex; justify-content: center; align-items: center;
+  border-radius: 4px; transition: 0.5s; font-size: 20px;
+}
+.sci li a:hover { color: rgba(255, 255, 255, 1); background: var(--accent); transform: translateY(-5px); }
+
+/* --- 6. SETTINGS --- */
+.setting-item { display: flex; justify-content: space-between; padding: 15px; background: var(--panel-bg); border-radius: 8px; align-items: center;}
+.setting-item select { padding: 8px; background: var(--bg); color: var(--text); border: 1px solid var(--accent); }
+
+/* --- IN-APP BROWSER OVERLAY --- */
+#in-app-browser {
+  position: fixed; top: 100%; left: 0; width: 100%; height: 100%;
+  background: var(--bg); z-index: 2000; transition: top 0.4s ease;
+  display: flex; flex-direction: column;
+}
+#in-app-browser.open { top: 0; }
+.browser-header {
+  height: 50px; background: var(--panel-bg); display: flex; justify-content: space-between;
+  align-items: center; padding: 0 15px; border-bottom: 2px solid var(--accent);
+}
+.browser-header button { background: none; border: none; color: var(--text); font-size: 20px; cursor: pointer; }
+#browser-frame { flex: 1; width: 100%; border: none; background: #fff;}
